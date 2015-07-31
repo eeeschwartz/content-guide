@@ -36,8 +36,8 @@ navigation:
 - text: Place
   url: place/
   internal: true
-- text:
-  url: /
+- text: Titles
+  url: titles/
   internal: true
 - text:
   url: /
