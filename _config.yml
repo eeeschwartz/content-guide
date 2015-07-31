@@ -39,8 +39,8 @@ navigation:
 - text: Titles
   url: titles/
   internal: true
-- text:
-  url: /
+- text: Acronyms and Abbreviations
+  url: acronyms-and-abbreviations/
   internal: true
 - text:
   url: /
