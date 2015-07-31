@@ -48,21 +48,6 @@ navigation:
 - text: Capitalization
   url: capitalization/
   internal: true
-- text:
-  url: /
-  internal: true
-- text:
-  url: /
-  internal: true
-- text:
-  url: /
-  internal: true
-- text:
-  url: /
-  internal: true
-- text:
-  url: /
-  internal: true
 
 repos:
 - name: 18F Content Guide
