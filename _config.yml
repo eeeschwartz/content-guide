@@ -1,6 +1,6 @@
 baseurl: /content-guide
 markdown: kramdown
-name: 18F Content Guide
+name: City of Lexington Content Guide
 exclude:
 - go
 - copy-template
@@ -26,6 +26,9 @@ logoalt: 18F logo
 navigation:
 - text: Introduction
   url: index.html
+  internal: true
+- text: Numbers
+  url: numbers/
   internal: true
 
 repos:
