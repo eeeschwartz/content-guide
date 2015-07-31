@@ -42,11 +42,11 @@ navigation:
 - text: Acronyms and Abbreviations
   url: acronyms-and-abbreviations/
   internal: true
-- text:
-  url: /
+- text: Addresses
+  url: addresses/
   internal: true
-- text:
-  url: /
+- text: Capitalization
+  url: capitalization/
   internal: true
 - text:
   url: /
