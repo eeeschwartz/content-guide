@@ -6,11 +6,11 @@ title: Links
 
 Links are most effective when they are specific and descriptive. When you create a link, highlight text that will give users a clear idea of what they will see if they follow it.
 
-> To be ready for the unexpected, you and your family need to make an emergency plan.
+> To be ready for the unexpected, you and your family need to [make an emergency plan](#).
 >
 > **– NOT –**
 >
-> To be ready for the unexpected, you can find out how to create an emergency plan here.
+> To be ready for the unexpected, you can find out how to create an emergency plan [here](#).
 
 **Click here**
 
@@ -35,13 +35,13 @@ You should also be consistent when determining what will happen when someone fol
 
 Do not set a link to open a new browser tab or window. This applies to any web page link, whether the link goes to another lexingtonky.gov page or to an external website.*
 
-For additional information on emergency preparedness and response measures, visit the Federal Emergency Management Agency (FEMA) website.
+> For additional information on emergency preparedness and response measures, visit the [Federal Emergency Management Agency (FEMA)](#) website.
 
 **INDICATE FORMAT WHEN LINKING TO AN ONLINE DOCUMENT**
 
 For document formats like PDFs, Word documents, and Excel spreadsheets, you should also include the file type in parentheses after the name of the document. This helps readers know that the link will be opening something other than a web page.
 
-Please review Tier II Reporting Requirements (PDF) before submitting a report.
+Please review [Tier II Reporting Requirements](#) (PDF) before submitting a report.
 
  
 
