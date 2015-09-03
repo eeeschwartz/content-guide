@@ -6,13 +6,11 @@ title: Links
 
 Links are most effective when they are specific and descriptive. When you create a link, highlight text that will give users a clear idea of what they will see if they follow it.
 
-<blockquote>
-To be ready for the unexpected, you and your family need to make an emergency plan.
-
-**– NOT –**
-
-To be ready for the unexpected, you can find out how to create an emergency plan here.
-</blockquote>
+> To be ready for the unexpected, you and your family need to make an emergency plan.
+>
+> **– NOT –**
+>
+> To be ready for the unexpected, you can find out how to create an emergency plan here.
 
 **Click here**
 
