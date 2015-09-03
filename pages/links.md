@@ -8,7 +8,9 @@ Links are most effective when they are specific and descriptive. When you create
 
 <blockquote>
 To be ready for the unexpected, you and your family need to make an emergency plan.
+
 **– NOT –**
+
 To be ready for the unexpected, you can find out how to create an emergency plan here.
 </blockquote>
 
