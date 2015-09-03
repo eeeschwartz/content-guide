@@ -14,8 +14,8 @@ highlighter: pygments
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: 18F
-  url: https://18f.gsa.gov
+  name: City of Lexington
+  url: http://lexingtonky.gov
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:
@@ -26,6 +26,12 @@ logoalt:
 navigation:
 - text: Introduction
   url: index.html
+  internal: true
+- text: Links
+  url: links/
+  internal: true
+- text: Plain English
+  url: plain-english
   internal: true
 - text: Numbers
   url: numbers/
