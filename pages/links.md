@@ -20,6 +20,7 @@ Do not use this phrase as the label for any link. Since “click here” is not 
 
 You can use this phrase as link text when it follows a preview or brief description of a content item. You should use it in combination with a linked headline, not as a replacement for a linked headline. Useful when pointing to content that is a mixture of text, images, and interactive tools, since it is not as specific as “read more.”
 
+
 **Read more**
 
 This is a more specific version of “Learn more.” Use it as link text after a preview or brief description of a content item, when the content item is primarily text.
