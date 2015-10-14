@@ -26,7 +26,6 @@ Follow these guidelines when using apostrophes.
 
 Do not use the ampersand (&) as an abbreviation for and. Use the ampersand when it is part of a company's formal name or composition title:  
 
-
 > *Procter & Gamble*  
 
 The ampersand should not otherwise be used in place of and: 
@@ -67,3 +66,86 @@ Use commas after introductory clauses, phrases or words that come before the mai
 
 Use a pair of commas in the middle of a sentence to set off clauses, phrases and words that are not essential to the meaning of the sentence. Use one comma before to indicate the beginning of the pause and one at the end to indicate the end of the pause.
 That Tuesday, which happens to be my birthday, is the only day when I am available to meet.  
+
+
+**Comma Abuse**
+
+Commas in the wrong places can break a sentence into illogical segments or confuse readers with unnecessary and unexpected pauses.
+*	Don't use a comma to separate the subject from the verb.
+	Incorrect: The most important attribute of a good manager, is adaptability.
+* Don't put a comma between the two nouns, noun phrases or noun clauses in a compound subject or compound object.
+Incorrect: Jeff told me that the job was still available, and that the manager wanted to interview me.  
+
+
+** Ellipsis (…)**
+Use ellipses to indicate the deletion of one or more words in condensing quotes, texts and documents, or to indicate hesitation. Be careful to avoid deletion that would distort the meaning.  
+> *In his “I Have a Dream” speech, the Reverend Martin Luther King Jr. declared: “Now is the time to make real the promises of democracy… Now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood.”*
+
+
+**Em Dash (—)**
+*	 Use dashes to denote an abrupt change in thought in a sentence or an emphatic pause: 
+
+> *We will go to Florida in June ─ if I get a raise.  Smith offered a plan ─ it was unprecedented ─ to raise revenues.*
+
+*	Series with a phrase: 
+
+>	*He listed the qualities ─ creativity, intelligence, humor, independence ─ that he liked in an employee.*
+
+*	Attribution:  Before or after an author's or composer's name at the end of the quotation: 
+
+> *"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty." ─  Sir Winston Churchill*
+
+**En Dash (–)**
+
+An en dash is half the width of an em dash.  Use the en dash, with spaces on both sides, to indicate continuing numbers or date:  
+
+> *pp. 25 – 52.*  
+> *Oct. 1985 – Jan. 1987.*
+
+
+**Exclamation point (!)**
+
+Avoid overuse of this mark! Use the mark to express a high degree of surprise, incredulity or other strong emotion. And please, use only one at a time! Place the mark inside quotation marks when used as part of a quote. 
+
+> *Incorrect: "Stop!", the police officer yelled.*
+> *Correct: "Stop!" the police officer yelled.*
+
+**Hyphen (-)**
+
+The hyphen is used for words like full-time, little-known and well-being.  
+
+*	To avoid ambiguity: Use a hyphen whenever ambiguity would result if it were omitted: 
+
+> *The mayor will speak to small-business owners.*
+
+* Two or more words that express a single concept: Use hyphens to link all the words in the compound: 
+
+> *a full-time job, a better-qualified woman, a well-known aide*
+>>	Exception:  Do not use a hyphen with the adverb very and all adverbs that end in ly:  
+>>> *a very good time, an easily remembered rule*
+
+*	Hyphenate words that can be mistaken for other words. 
+
+> *re-creation, recreation*
+
+*	Words made with these prefixes are generally not hyphenated: 
+> *anti, bi, co, extra, inter, micro, mid, multi, non, over, post, pre, pro, re, semi, sub, un and under.*
+
+
+**Quotation Marks (")**
+
+Put quotation marks around the titles of all works (books, songs, plays, operas, chapters, television shows, speech titles) except the Bible and compositions that are primarily catalog or reference materials, including newspapers, scholarly and medical journals, and magazine names; do not italicize.
+
+*	*"Robinson Crusoe"*
+*	*"The Star-Spangled Banner"*
+*	*"60 Minutes"*
+*	*"A Midsummer Night's Dream"*
+*	*"I Have a Dream Speech"*
+*	*The Lexington Herald-Leader*
+*	*The American Journal of Medicine*
+*	*Newsweek*
+
+
+
+
+
