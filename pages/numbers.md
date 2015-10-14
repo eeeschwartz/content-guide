@@ -23,3 +23,8 @@ title: Numbers
 * When writing an someone's age, always use figures.
 
 > _Sidney Allen, 8, was awarded the prize._
+
+* When referring to a percentage in a sentence, spell out the word "percent" rather than using the % symbol. A numeral is required before the word percent unless it comes at the beginning of the sentence.
+
+> _The mayor said the budget would be increased by 7 percent._
+> _Seven percent of the budget had to be cut._
