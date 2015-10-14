@@ -3,8 +3,6 @@ permalink: easily-confused-words/
 layout: default
 title: Easily Confused Words
 ---
-## Easily Confused Words
-
 
 **Accept, Except**
 
