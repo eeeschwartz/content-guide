@@ -3,7 +3,6 @@ permalink: punctuation/
 layout: default
 title: Punctuation
 ---
-## Punctuation
 There is no alternative to correct punctuation. Incorrect punctuation can change the meaning of a sentence and/or cause the reader to lose track of what is being said and give up reading. The basic guideline to use in punctuation is to use common sense. Punctuation is to make clear the thought being expressed. If it does not help make clear what is being said, it should not be there.
 
 
