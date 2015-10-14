@@ -27,35 +27,38 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Links
-  url: links/
-  internal: true
-- text: Plain English
-  url: plain-english
-  internal: true
-- text: Numbers
-  url: numbers/
-  internal: true
-- text: Time and Dates
-  url: times-and-dates/
-  internal: true
-- text: Place
-  url: place/
-  internal: true
-- text: Punctuation
-  url: punctuation/
-  internal: true
-- text: Titles
-  url: titles/
+- text: Addresses
+  url: addresses/
   internal: true
 - text: Acronyms and Abbreviations
   url: acronyms-and-abbreviations/
   internal: true
-- text: Addresses
-  url: addresses/
-  internal: true
 - text: Capitalization
   url: capitalization/
+  internal: true
+- text: Easily Confused Words
+  url: easily-confused-words/
+  internal: true
+- text: Links
+  url: links/
+  internal: true
+- text: Numbers
+  url: numbers/
+  internal: true
+- text: Place
+  url: place/
+  internal: true
+- text: Plain English
+  url: plain-english
+  internal: true
+- text: Punctuation
+  url: punctuation/
+  internal: true
+- text: Time and Dates
+  url: times-and-dates/
+  internal: true
+- text: Titles
+  url: titles/
   internal: true
 
 repos:
