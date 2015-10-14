@@ -10,6 +10,7 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 **Apostrophe (')**
 
 Follow these guidelines when using apostrophes.
+
 *	Contractions: You're right. She's a great boss.
 *	To show possession: (Place the apostrophe before the s to show singular possession) Ms. Smith's office. 
 *	Where the noun that should follow is implied: That was his father's, not his, jacket.
@@ -40,12 +41,13 @@ The ampersand should not otherwise be used in place of and:
 
 **Semicolon (;)**
 A semicolon serves as a strong comma, and is usually used to clarify a series.
+
 *	To clarify a series:  When individual segments contain material that also must be set off by commas:  He leaves a daughter, Sidney Brown of Lexington; three sons, Johnny Smith of Dallas, Tim Smith of Louisville, Ky., and Randy Smith of Nashville, Tenn.; and a sister, Dorothy McAdams, of Richmond, Ky.
 *	To link independent clauses: When a coordinating conjunction such as and, but or for is not present.
 
-> **_Incorrect_:**  *The package was due last week, it arrived today.*
+> **_Incorrect_:** *The package was due last week, it arrived today.*
 >
->	**_Correct_:**  *The package was due last week; it arrived today.*
+> **_Correct_:** *The package was due last week; it arrived today.*
 
 
 **Colon (:)**
