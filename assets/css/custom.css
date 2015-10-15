@@ -28,7 +28,7 @@ div.skip-nav a:focus {
  }
 
  table, th, td {
-   border: 1px solid black;
+   border: 0px solid black;
    padding: 5px;
    margin:5px;
 }
