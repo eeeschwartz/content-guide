@@ -10,16 +10,16 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 Follow these guidelines when using apostrophes.
 
-*	Contractions: You're right. She's a great boss.
-*	To show possession: (Place the apostrophe before the s to show singular possession) Ms. Smith's office. 
-*	Where the noun that should follow is implied: That was his father's, not his, jacket.
-*	To show plural possession, make the noun a plural first. Then immediately use the apostrophe.  the two boys' hats, the Joneses' house
-*	Do not use an apostrophe for the plural of a name. We visited the Smiths in Louisville. The Billingsleys have two dogs and a cat.
-*	With a singular compound noun, show possession with the 's at the end of the word. my mother-in-law's car
-*	If the compound noun is plural, form the plural first and then use the apostrophe. my two brothers-in-law's hats
-*	Use the apostrophe and s after the second name only if two people possess the same item. Michael and Cindy's home is constructed of brick. Stacey's and Jon's contracts will be renewed next year.
-*	Never use an apostrophe with possessive pronouns: his, hers, its, theirs, ours, yours, whose.  They already show possession so they do not require an apostrophe.  The book is hers, not yours.  
-*	The only time an apostrophe is used for it's is when it is a contraction for "it is" or "it has." It's your right to refuse the invitation. It's been great getting to know you.
+*	Contractions: *You're right. She's a great boss.*
+*	To show possession: *(Place the apostrophe before the s to show singular possession) Ms. Smith's office.*
+*	Where the noun that should follow is implied: *That was his father's, not his, jacket.*
+*	To show plural possession, make the noun a plural first. Then immediately use the apostrophe. *the two boys' hats, the Joneses' house*
+*	Do not use an apostrophe for the plural of a name. *We visited the Smiths in Louisville. The Billingsleys have two dogs and a cat.*
+*	With a singular compound noun, show possession with the 's at the end of the word. *my mother-in-law's car*
+*	If the compound noun is plural, form the plural first and then use the apostrophe. *my two brothers-in-law's hats*
+*	Use the apostrophe and s after the second name only if two people possess the same item. *Michael and Cindy's home is constructed of brick. Stacey's and Jon's contracts will be renewed next year.*
+*	Never use an apostrophe with possessive pronouns: his, hers, its, theirs, ours, yours, whose.  They already show possession so they do not require an apostrophe.  *The book is hers, not yours.*  
+*	The only time an apostrophe is used for it's is when it is a contraction for "it is" or "it has." *It's your right to refuse the invitation. It's been great getting to know you.*
 
 
 **Ampersand (&)**
