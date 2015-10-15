@@ -65,11 +65,11 @@ navigation:
   internal: true
 
 repos:
-- name: 18F Content Guide
+- name: City of Lexington Content Guide
   description: Main repository
-  url: https://github.com/18F/content-guide
+  url: https://github.com/lfucg/content-guide
 
 # Style Variables
 brand_color: "#1188ff"
 
-google_analytics_ua: UA-48605964-19
+google_analytics_ua: UA-50592121-14
