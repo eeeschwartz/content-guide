@@ -19,3 +19,17 @@ title: Numbers
 * Always spell out simple fractions and use hyphens with them.
 
 > _A two-thirds majority is required for that policy to pass._
+
+* When writing an someone's age, always use figures.
+
+> _Sidney Allen, 8, was awarded the prize._
+
+* When referring to a percentage in a sentence, spell out the word "percent" rather than using the % symbol. A numeral is required before the word percent unless it comes at the beginning of the sentence.
+
+> _The mayor said the budget would be increased by 7 percent._
+> _Seven percent of the budget had to be cut._
+
+* Phone Number Use parentheses around the area code and put a space between the area code and the rest of the phone number.
+
+> _(859) 555-1212_    
+> _(859) 555-1212, ext. 402_

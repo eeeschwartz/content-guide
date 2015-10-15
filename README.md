@@ -1,4 +1,4 @@
-## 18F Content Guide
+## Ciy of Lexington Content Guide
 
 This guide helps writers create content that’s easy to use and meets citizens where they’re at. Government websites often talk at readers rather than to them: As with other facets of its online presence, .gov writing tends to describe the government’s concerns in “governmentese,” leaving users frustrated by information that is neither actionable nor understandable.
 
@@ -13,6 +13,36 @@ To this end, we’ve structured the guide into descriptively named sections. Bro
 We aren’t opposed if you’d like to read this guide start to finish, of course.
 
 Most importantly, we encourage you to make a copy of this document and adapt its to your organizational needs. This guide is just that: a guide. It’s not meant to provide the final opinion on any of the topics discussed. If a certain section isn’t relevant to you and your team, delete it. And if you feel the guide is missing a section, by all means, add it. This guide is yours to use, and we trust you’ll update it in the ways that best suit you.
+
+## How to add a page
+
+### 1. Create a [new file](https://github.com/lfucg/content-guide/new/gh-pages/pages) in the pages directory.
+### 2. Add the content template:
+
+```
+---
+permalink: my-new-permalink/
+layout: default
+title: My new page
+---
+
+Content here!
+```
+
+![Create page](assets/img/create-new-github-page.gif)
+ 
+### 3. Edit [_config.yml](https://github.com/lfucg/content-guide/edit/gh-pages/_config.yml)
+### 4. Add the new page to the `navigation` section:
+
+```
+Navigation:
+- text: My new page
+  url: my-new-permalink/
+  internal: true
+```
+
+
+![edit config](assets/img/edit-config.gif)
 
 ### Public domain
 
