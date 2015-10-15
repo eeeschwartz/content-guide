@@ -197,6 +197,7 @@ Use that and which in referring to inanimate objects and to animals without a na
 
 
 **Days of the Week**
+
 > Capitalize them. Do not abbreviate, except when needed in a tabular format: *Sun, Mon, Tue, Wed, Thu, Fri, Sat (three letters, without periods, to facilitate tabular composition).*
 
  
@@ -237,8 +238,8 @@ Use that and which in referring to inanimate objects and to animals without a na
 
 **Fraternal organizations and service clubs**
 
->	Capitalize the proper names:  *Fraternal Order of Police, Rotary Club*
->	Capitalize the words that describe membership:  *He is a Rotarian.* 
+> Capitalize the proper names:  *Fraternal Order of Police, Rotary Club*
+> Capitalize the words that describe membership:  *He is a Rotarian.* 
 
 
 **Gender**
