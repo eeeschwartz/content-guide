@@ -20,10 +20,12 @@ title: Times and Dates
 
     > _9:30 a.m._
   
-* Do not put a 12 in front of noon:  
+* Do not put a 12 in front of noon: 
+
     > _noon_, **not** _12 noon_
 
-* Avoid the redundant:  
+* Avoid the redundant:
+
     > _11 p.m. tonight_
 
 * When the day follows the month, express it in cardinal figures: 
