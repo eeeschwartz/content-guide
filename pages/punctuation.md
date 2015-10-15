@@ -160,7 +160,8 @@ Put quotation marks around the titles of all works (books, songs, plays, operas,
 *	*The American Journal of Medicine*
 *	*Newsweek*
 
+Qoutation marks are also used before and after a quote is introduced: 
 
+> *Brian said, "She spent six months working on the project."* 
 
-
-
+> *"She spent six months working on the project," said Brian.*
