@@ -20,13 +20,19 @@ Picture your audience and write as if you were talking to them one-on-one and wi
 Avoid being passive, whenever possible. The active voice allows the reader to more easily identify each sentence's subject. Active voice also tends to make for shorter, more palpable writing, since it is so simple and straight to the point. 
 
 > *	**_Active voice_:** 
+
 >> *The subject of the sentence is doing the action.*
+
 >> *The clerk was helping the customer.*
+
 >> *The director wrote the report yesterday.*
 
 > *	**_Passive voice_**: 
+
 >> *The subject of the sentence is now being acted upon.*
+
 >> *The customer was being helped (by the clerk).*
+
 >> *The report was written yesterday (by the director)*
 
 
