@@ -123,6 +123,7 @@ title: Easily Confused Words
 **That, Which**
 
 Use that and which in referring to inanimate objects and to animals without a name.
+
 > *	Use that for essential clauses, important to the meaning of a sentence, and without commas.  I remember the day that we met.
 > *	Use which for nonessential clauses, where the pronoun is less necessary, and use commas.  The team, which finished last a year ago, is in first place
 
@@ -162,6 +163,7 @@ Use that and which in referring to inanimate objects and to animals without a na
 **Bluegrass**
 
 > One word and capitalized when used to represent the region. The lowercase version refers to the type of grass.  Kentucky is often called the Bluegrass State. The landscape crew spread bluegrass seed on the soccer field. PLEASE NOTE: *There are exceptions to this rule. (Blue Grass Airport)  It is best to double check the correct usage on the company's website or call them to confirm.*
+
 
 **Central**
 
@@ -274,10 +276,8 @@ Use that and which in referring to inanimate objects and to animals without a na
 **Mayor**
 
 > Capitalize when used as a title preceding a name.
-
->>	*Lexington Mayor Samantha Stevens*
-
->>	*Samantha Stevens, mayor of Lexington*
+> *Lexington Mayor Samantha Stevens*
+>	*Samantha Stevens, mayor of Lexington*
 
 
 **Mount**
