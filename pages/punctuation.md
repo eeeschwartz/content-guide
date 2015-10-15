@@ -86,8 +86,13 @@ Do not include the comma before the final conjunction in a series:
 > *Meetings will be held in June, July and August.*  
 > *The flag is red, white and blue.*
 
-* Exception: When the last item of the series links two nouns with the word "and," use a comma: The participants included representatives from the departments of Social Services, Finance, and Environmental Quality and Public Works.
-* If there is a comma in one component of the series, use a semicolon: Key activities included education and training events; collaborative solutions to community problems; and sound organizational management at the international, national and local levels.
+* Exception: When the last item of the series links two nouns with the word "and," use a comma: 
+
+> *The participants included representatives from the departments of Social Services, Finance, and Environmental Quality and Public Works.*
+
+* If there is a comma in one component of the series, use a semicolon: 
+
+> *Key activities included education and training events; collaborative solutions to community problems; and sound organizational management at the international, national and local levels.*
 
 
 **Ellipsis (…)**
@@ -98,6 +103,7 @@ Use ellipses to indicate the deletion of one or more words in condensing quotes,
 
 
 **Em Dash (—)**
+
 *	 Use dashes to denote an abrupt change in thought in a sentence or an emphatic pause: 
 
 > *We will go to Florida in June ─ if I get a raise.  Smith offered a plan ─ it was unprecedented ─ to raise revenues.*
