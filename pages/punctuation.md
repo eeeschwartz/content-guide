@@ -144,6 +144,7 @@ The hyphen is used for words like full-time, little-known and well-being.
 > *re-creation, recreation*
 
 *	Words made with these prefixes are generally not hyphenated: 
+
 > *anti, bi, co, extra, inter, micro, mid, multi, non, over, post, pre, pro, re, semi, sub, un and under.*
 
 
