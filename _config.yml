@@ -18,8 +18,8 @@ author:
   url: http://lexingtonky.gov
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl:
-logoalt:
+logourl: https://github.com/lfucg/content-guide/blob/gh-pages/assets/img/lexington-logo.png
+logoalt: Lexington Kentucky Logo
 
 # Navigation
 # List links that should appear in the site sidebar here
