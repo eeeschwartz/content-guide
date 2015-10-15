@@ -71,14 +71,29 @@ That Tuesday, which happens to be my birthday, is the only day when I am availab
 **Comma Abuse**
 
 Commas in the wrong places can break a sentence into illogical segments or confuse readers with unnecessary and unexpected pauses.
-*	Don't use a comma to separate the subject from the verb.
-	Incorrect: The most important attribute of a good manager, is adaptability.
+* Don't use a comma to separate the subject from the verb.
+
+> **_Incorrect_:** *The most important attribute of a good manager, is adaptability.*
+
 * Don't put a comma between the two nouns, noun phrases or noun clauses in a compound subject or compound object.
-Incorrect: Jeff told me that the job was still available, and that the manager wanted to interview me.  
+
+> **_Incorrect_:** *Jeff told me that the job was still available, and that the manager wanted to interview me.*  
+
+**Series**
+
+Do not include the comma before the final conjunction in a series:  
+
+> *Meetings will be held in June, July and August.*  
+> *The flag is red, white and blue.*
+
+* Exception: When the last item of the series links two nouns with the word "and," use a comma: The participants included representatives from the departments of Social Services, Finance, and Environmental Quality and Public Works.
+* If there is a comma in one component of the series, use a semicolon: Key activities included education and training events; collaborative solutions to community problems; and sound organizational management at the international, national and local levels.
 
 
-** Ellipsis (…)**
+**Ellipsis (…)**
+
 Use ellipses to indicate the deletion of one or more words in condensing quotes, texts and documents, or to indicate hesitation. Be careful to avoid deletion that would distort the meaning.  
+
 > *In his “I Have a Dream” speech, the Reverend Martin Luther King Jr. declared: “Now is the time to make real the promises of democracy… Now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood.”*
 
 
