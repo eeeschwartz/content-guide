@@ -241,6 +241,7 @@ Use that and which in referring to inanimate objects and to animals without a na
 **Fraternal organizations and service clubs**
 
 > Capitalize the proper names:  *Fraternal Order of Police, Rotary Club*
+
 > Capitalize the words that describe membership:  *He is a Rotarian.* 
 
 
@@ -276,7 +277,9 @@ Use that and which in referring to inanimate objects and to animals without a na
 **Mayor**
 
 > Capitalize when used as a title preceding a name.
+
 > *Lexington Mayor Samantha Stevens*
+
 >	*Samantha Stevens, mayor of Lexington*
 
 
