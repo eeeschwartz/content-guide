@@ -35,4 +35,3 @@ councilmember                                        | councilman, councilwoman
 state of Georgia                                     | State of Georgia 
 spring, summer, fall, winter (seasons)               | Spring, Summer, Fall, Winter 
 Mount Sterling                                       | Mt. Sterling
-
