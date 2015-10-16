@@ -129,6 +129,7 @@ An en dash is half the width of an em dash.  Use the en dash, with spaces on bot
 Avoid overuse of this mark! Use the mark to express a high degree of surprise, incredulity or other strong emotion. And please, use only one at a time! Place the mark inside quotation marks when used as part of a quote. 
 
 > *Incorrect: "Stop!", the police officer yelled.*
+
 > *Correct: "Stop!" the police officer yelled.*
 
 **Hyphen (-)**
