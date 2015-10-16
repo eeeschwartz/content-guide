@@ -11,7 +11,7 @@ title: Quick Reference
 "This is correct," she said.                         | "This is incorrect", she said. 
 one, two, three, four, five, six, seven, eight, nine | 1, 2, 3, 4, 5, 6, 7, 8, 9  
 10, 11, 12                                           | ten, eleven, twelve 
-Arial 11-pt type (for correspondence)                | funky 9-pt or 14-pt font 
+Sans sarif font 11-pt type (for correspondence)      | funky 9-pt or 14-pt font 
 End of sentence. One space after period.             | End of sentence.  Two spaces after period. 
 List of things. Two spaces after colon.              | List of things. One space after colon. 
 One space after comma.                               | Never two spaces after comma. 
