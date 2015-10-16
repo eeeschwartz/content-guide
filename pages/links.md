@@ -57,4 +57,3 @@ Please review [Tier II Reporting Requirements](#) (PDF) before submitting a repo
 
 *Opinions do vary on the subject, but there is not much evidence to suggest that people want a new tab or window to open automatically when they click a link to an external site. Having many tabs or windows open at the same time can be confusing to users if they have not chosen to see content this way. Users who do want new tabs to open still have this ability, since modern browsers support macros and controls that allow them to open any link in a new tab or window.
 
-This page forked from the [phila.gov content guide](https://alpha.phila.gov/content-style-guide/links/)
