@@ -110,7 +110,7 @@ Use ellipses to indicate the deletion of one or more words in condensing quotes,
 
 *	Series with a phrase: 
 
->	*He listed the qualities ─ creativity, intelligence, humor, independence ─ that he liked in an employee.*
+> *He listed the qualities ─ creativity, intelligence, humor, independence ─ that he liked in an employee.*
 
 *	Attribution:  Before or after an author's or composer's name at the end of the quotation: 
 
