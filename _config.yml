@@ -18,7 +18,7 @@ author:
   url: http://lexingtonky.gov
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: assets/img/lexington-logo.png
+logourl: /assets/img/lexington-logo.png
 logoalt: Lexington Kentucky Logo
 
 # Navigation
