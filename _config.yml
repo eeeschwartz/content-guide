@@ -36,6 +36,9 @@ navigation:
 - text: Capitalization
   url: capitalization/
   internal: true
+- text: Commonly Used Government Terms
+  url: commonly-used-government-terms/
+  internal: true  
 - text: Easily Confused Words
   url: easily-confused-words/
   internal: true
