@@ -137,14 +137,14 @@ a:focus {
 }
 
 a.title-link {
-    color: #75787B;
+    color: #58595B;
     border-bottom: none;
 }
 
 a.title-link:hover,
 a.title-link:active,
 a.title-link:focus {
-    color: #7eb8dd;
+    color: #005DAA;
     border-bottom: none;
 }
 
@@ -211,7 +211,7 @@ Layout
 
 .logo {
     display: block;
-    width: 175px
+    width: 175px;
 }
 
 .content {
