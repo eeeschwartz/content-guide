@@ -135,6 +135,7 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 
 **Semicolon (;)**
+
 > A semicolon serves as a strong comma, and is usually used to clarify a series.
 
 >> *	To clarify a series:  When individual segments contain material that also must be set off by commas:  He leaves a daughter, Sidney Brown of Lexington; three sons, Johnny Smith of Dallas, Tim Smith of Louisville, Ky., and Randy Smith of Nashville, Tenn.; and a sister, Dorothy McAdams, of Richmond, Ky.
