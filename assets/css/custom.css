@@ -40,3 +40,17 @@ li.active > a{
 	background-color: #317ab9;
 }
 
+footer {
+    display: table-row; /* for sticky footer */
+    height: 1px; /* for sticky footer */
+    border-top: 2px solid #babbbd;
+    background: #005DAA;
+    width: 100%;
+    font-size: 0.875em;
+}
+
+footer .wrap {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  color: #ffffff;
+}
