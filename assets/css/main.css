@@ -144,7 +144,7 @@ a.title-link {
 a.title-link:hover,
 a.title-link:active,
 a.title-link:focus {
-    color: #005DAA;
+    color: #ffffff;
     border-bottom: none;
 }
 
@@ -266,7 +266,6 @@ footer {
 footer .wrap {
   padding-top: 2em;
   padding-bottom: 2em;
-  color: #ffffff;
 }
 
 
