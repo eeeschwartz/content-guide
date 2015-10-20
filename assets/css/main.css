@@ -112,7 +112,7 @@ a {
 a,
 a:link,
 a:visited {
-    color: #58595B;
+    color: #005DAA;
     border-bottom: 1px dotted #58595B;
     text-decoration: none;
 }
@@ -144,7 +144,7 @@ a.title-link {
 a.title-link:hover,
 a.title-link:active,
 a.title-link:focus {
-    color: #ffffff;
+    color: #002B55;
     border-bottom: none;
 }
 
@@ -211,7 +211,7 @@ Layout
 
 .logo {
     display: block;
-    width: 175px;
+    width: 200px;
 }
 
 .content {
@@ -258,7 +258,7 @@ footer {
     display: table-row; /* for sticky footer */
     height: 1px; /* for sticky footer */
     border-top: 2px solid #babbbd;
-    background: #005DAA;
+    background: #002B55;
     width: 100%;
     font-size: 0.875em;
 }
