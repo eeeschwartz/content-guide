@@ -22,11 +22,10 @@ title: Commonly Used Government Terms
 > In general, lowercase central when it indicates compass direction and capitalize when it designates a region.  *The central business district.  We have lived in Central Kentucky for seven years.*
 
 
-**Chairman, Chairwoman**
+**Chairman, Chairwoman, Chairperson, Chair**
 
-> Capitalize as a formal title before a name: *company Chairman Henry Ford, committee Chairwoman Jessica Elgin*
-> Do not capitalize as a casual, temporary position: *meeting chairman Phillip Edwards*
-> Do not use chairperson, chair or co-chair unless it is an organization's formal title for an office.   
+> Capitalize as a formal title before a name: *company Chairman Henry Ford, committee Chairwoman Jessica Elgin, board Chairperson Riley Winters*
+> Do not capitalize as a casual, temporary position: *meeting chairman Phillip Edwards*  
 
 
 **Chamber**
