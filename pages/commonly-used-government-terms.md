@@ -30,7 +30,7 @@ title: Commonly Used Government Terms
 
 **Chamber**
 
-> When refering to where the city council meets, alwasy refer to it as the council chamber. Do not refer to it as the city council chambers. *There is a meeting in the council chamber at 2:30 p.m.*
+> When refering to where the city council meets, always refer to it as the council chamber. Do not refer to it as the city council chambers. *There is a meeting in the council chamber at 2:30 p.m.*
 
 
 **City council**
