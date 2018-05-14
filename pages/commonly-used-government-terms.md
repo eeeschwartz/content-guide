@@ -135,8 +135,7 @@ title: Commonly Used Government Terms
 > Capitalize when used as a title preceding a name.
 
 > *Lexington Mayor Samantha Stevens*
-
->	*Samantha Stevens, mayor of Lexington*
+> *Samantha Stevens, mayor of Lexington*
 
 
 **Mount**
