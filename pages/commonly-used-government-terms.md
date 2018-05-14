@@ -136,7 +136,7 @@ title: Commonly Used Government Terms
 
 > *Lexington Mayor Samantha Stevens*
 
-> *Samantha Stevens, mayor of Lexinton*
+> *Samantha Stevens, mayor of Lexington*
 
 **Mount**
 
