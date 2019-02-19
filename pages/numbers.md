@@ -20,7 +20,7 @@ title: Numbers
 
 > _A two-thirds majority is required for that policy to pass._
 
-* When writing an someone's age, always use figures.
+* When writing someone's age, always use figures.
 
 > _Sidney Allen, 8, was awarded the prize._
 
