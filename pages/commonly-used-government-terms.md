@@ -20,18 +20,22 @@ title: Commonly used terms and phrases
 >All ready means “prepared.” Already means “previously.”
 
 >>•	Mackenzie is all ready for the budget presentation tomorrow.
+
 >>•	Mackenzie already sent out the meeting request notifications. 
 
 
 **All together, altogether**
 
 >All together means “all in one place.”
+
 >Altogether means “completely.” 
 
 >>•	All together there are six new members of the administration.
+
 >>•	It is difficult to get them all together in one room. 
 
 >>•	The government has simply ignored the problem altogether. 
+
 >>•	Altogether, our achievements are very great.
 
 
@@ -40,6 +44,7 @@ title: Commonly used terms and phrases
 >Among is used when there are more than two objects. Between is used when there are two objects.
 
 >>•	She divided the work evenly among the four accountants.
+
 >>•	Between you and me, I don’t think he is the right person for the job. 
 
 
@@ -48,6 +53,7 @@ title: Commonly used terms and phrases
 >Awhile is an adverb. A while is a noun phrase that follows the preposition for or in. 
 
 >>•	She waited in the conference room awhile before deciding to leave.
+
 >>•	They stopped at the breakroom for a while.
 
 
@@ -68,6 +74,7 @@ title: Commonly used terms and phrases
 >To bring means moving something toward a location. To take means moving something away from a location.
 
 >>•	What can I bring to the holiday party?
+
 >>•	Do you mind if I take these leftover cupcakes home?
 
 
@@ -79,6 +86,7 @@ title: Commonly used terms and phrases
 **Chairman, Chairwoman, Chairperson, Chair**
 
 > Capitalize as a formal title before a name: *company Chairman Henry Ford, committee Chairwoman Jessica Elgin, board Chairperson Riley Winters*
+
 > Do not capitalize as a casual, temporary position: *meeting chairman Phillip Edwards*  
 
 
@@ -90,6 +98,7 @@ title: Commonly used terms and phrases
 **City council**
 
 > Capitalize when part of a proper name:  *The Lexington City Council*
+
 > Use lowercase in plural and generic uses:  *Lexington, Louisville and Cincinnati city councils.*
 
 
@@ -130,6 +139,7 @@ title: Commonly used terms and phrases
 >>Handicapped is an outdated and unacceptable term to use when referring to individuals or accessible environments. 
 
 >>>•	Accessible parking, not handicapped parking
+
 >>>•	Accessible restroom, not disabled restroom
 
 
@@ -160,7 +170,9 @@ title: Commonly used terms and phrases
 >>Preferred race/color descriptor for those with apparent African ancestry. Not strictly synonymous with African-Americans. If specific ethnicity is known, use that. 
 
 >>>•	African-American
+
 >>>•	Caribbean
+
 >>>•	African
 
 >**_Hispanic_**
@@ -178,6 +190,7 @@ title: Commonly used terms and phrases
 >Every day is an adverbial expression. Everyday is an adjective.
 
 >>•	I get a large coffee at Starbucks every day.
+
 >>•	Going out for lunch is not an everyday occurrence. 
 
 
@@ -196,6 +209,7 @@ title: Commonly used terms and phrases
 Do not capitalize when spelled out. When abbreviated, capitalize and put a space between FY and the year.
 
 >>•	The mayor asked the divisions to cut their budgets by 10 percent in fiscal year 2020.
+
 >>•	The City’s FY 2020 budget will reflect reductions across all divisions. 
 
 
@@ -216,6 +230,7 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 >>Hyphenate the adjective, not the noun.
 
 >>•	Full-time employees work full time. 
+
 >>•	Part-time employees work part time. 
 
 
@@ -275,6 +290,7 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 
 > *Samantha Stevens, mayor of Lexington*
 
+
 **Mount**
 
 > Spell it out.  *Mount Sterling, Mount Vernon*
@@ -295,6 +311,7 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 >Do not hyphenate words that take these prefixes unless the last letter of a prefix is the same as the first letter in the second word.
 
 >>•	preregistration
+
 >>•	pre-enrollment
 
 
@@ -322,8 +339,11 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 >Capitalize when referring to a governmental entity, but not when referring to geographical areas or system/theories of government. 
 
 >>•	The city is seeking federal aid to help with rebuilding costs.
+
 >>•	The Federal government is not always a supporter of the federal system. 
+
 >>•	The current State budget is the largest in history.
+
 >>•	Nick is from the state of California. 
 
 
@@ -346,6 +366,7 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 >Spell out as a noun; abbreviate (with no spaces between the letters) as an adjective.
 
 >>•	The United States is a popular destination for tourists.
+
 >>•	The official U.S. policy has not changed. 
 
 
