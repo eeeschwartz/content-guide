@@ -1,8 +1,16 @@
 ---
-permalink: commonly-used-government-terms/
+permalink: commonly-used-terms/
 layout: default
-title: Commonly Used Government Terms
+title: Commonly used terms and phrases
 ---
+
+**Age**
+
+> Make reference of age only when it is deemed relevant to the situation. If someone is quoted as saying, “I’m too old to go back to school,” the age is relevant. When referencing ages, always use figures.
+
+>> •	Mary Catherine Yancey, 8, was awarded the prize. 
+>> •	The building is 22 years old. 
+>> •	The 5-year-old boy started kindergarten. 
 
 
 **At large**
