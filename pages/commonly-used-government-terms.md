@@ -140,7 +140,7 @@ title: Commonly used terms and phrases
 
 >>>•	Accessible parking, not handicapped parking
 
->>>•	Accessible restroom, not disabled restroom
+>>>•	Accessible restroom, not handicapped restroom
 
 
 **Directions**
@@ -155,7 +155,7 @@ title: Commonly used terms and phrases
 
 **Ethnic and racial references**
 
->Some races and ethnicities have multiple terms associated with them. When possible, ask for a person’s preference (e.g., Native American vs. American Indian) and use only when necessary. Capitalize all proper names; lowercase designations of color (white, black). Compounds, such as African American, do not need hyphens when used as nouns. However, hyphenate these terns when used as adjectives, such as African-American studies. See individual entries below for specific references. 
+>Some races and ethnicities have multiple terms associated with them. When possible, ask for a person’s preference (e.g., Native American vs. American Indian) and use only when necessary. Capitalize all proper names; lowercase designations of color (white, black). Compounds, such as African American, do not need hyphens when used as nouns. However, hyphenate these terms when used as adjectives, such as African-American studies. See individual entries below for specific references. 
 
 >**_African American_**
 
@@ -227,7 +227,7 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 
 **full time, part time**
 
->>Hyphenate the adjective, not the noun.
+>Hyphenate the adjective, not the noun.
 
 >>•	Full-time employees work full time. 
 
