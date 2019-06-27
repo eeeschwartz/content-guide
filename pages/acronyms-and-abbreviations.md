@@ -11,7 +11,7 @@ An acronym is a word formed from the first letter or letters or a series of word
 * Avoid acronyms on the first reference unless they are so well known that most readers will recognize the reference at first glance, such as _FBI, NAACP and RSVP._
 * AP Style says you DO NOT need to add the acronym or abbreviation in parentheses immediately following the title. Simply refer to the name in the abbreviated form and trust that the reader will pick it up.
 * Do not begin a sentence with an abbreviation.
-* Abbreviate company, corporation, incorporated and limited when used after the names of a corporate entity.  _Downtown Lexington Corp._
+* Abbreviate company, corporation, incorporated and limited when used after the names of a corporate entity.  _Commerce Lexington Inc._
 * DO NOT use a comma before Inc., Ltd., LLC, LLP.  _Smith & Jones Ltd._
 * Generally, use capital letters and omit periods unless the result would spell an unrelated word.  (_U.S. not US_)
 
