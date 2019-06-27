@@ -71,7 +71,7 @@ title: Commonly used terms and phrases
 
 **bring, take**
 
->To bring means moving something toward a location. To take means moving something away from a location.
+>_To bring_ means moving something toward a location. _To take_ means moving something away from a location.
 
 >>•	What can I bring to the holiday party?
 
@@ -97,7 +97,7 @@ title: Commonly used terms and phrases
 
 **City council**
 
-> Capitalize when part of a proper name:  *The Lexington City Council*
+> Capitalize when part of a proper name:  *The Lexington City Council. *
 
 > Use lowercase in plural and generic uses:  *Lexington, Louisville and Cincinnati city councils.*
 
@@ -109,7 +109,7 @@ title: Commonly used terms and phrases
 
 **Company, Corporation**
 
-> In news releases, letters and memorandums, abbreviate as Co./Corp. when used at the end of a company name. In brochures, spell out each.
+> Use Co. or Cos. when a business uses either word at the end of its proper name. If company or companies appears alone in second reference, spell the word out.
 
 
 **Councilmember**
@@ -122,26 +122,32 @@ title: Commonly used terms and phrases
 > Capitalize them. Do not abbreviate, except when needed in a tabular format: *Sun, Mon, Tue, Wed, Thu, Fri, Sat (three letters, without periods, to facilitate tabular composition).*
 
 
-**Disabilities**
+**Disabled, handicapped**
 
->Do not use the word “disability” as a primary adjective, as if a disability is a person’s most important trait. Instead, use “person who uses a wheelchair,” or “people who are deaf.” Additionally, do not use language that portrays the person as passive or suggests a lack of something (victim, invalid, defective).  Avoid using altogether unless there is a compelling reason to use.
+>Do not use the word “disability” as a primary adjective, as if a disability is a person’s most important trait. Instead, use “person who uses a wheelchair,” or “people who are deaf.” Additionally, do not use language that portrays the person as passive or suggests a lack of something (victim, invalid, suffers from).  Avoid using altogether unless there is a compelling reason to use.
 
 >**_Blind_**
 
->>People with almost complete vision loss are considered blind or legally blind (20/200 vision). Those who have partial sight may prefer the term low vision, limited vision or visually impaired. If possible, ask for a person’s preference. 
+>>Describes a person with complete or nearly complete loss of sight. Those who have partial sight may prefer the term low vision, limited vision or visually impaired. If possible, ask for a person’s preference. 
 
 >**_Deaf_**
 
->>People who have total hearing loss are deaf. Those with partial hearing loss are hard of hearing. Again, ask for a person’s preference. Note: When referring to Deaf culture, the d is capitalized. 
+>>Describes a person with total or major hearing loss. Those with partial hearing loss are hard of hearing or partially deaf. Again, ask for a person’s preference. Note: When referring to Deaf culture, the d is capitalized. 
+
+>**_Disabled_**
+
+>>A general term used for a physical, mental, developmental or intellectual disability. **Do not use mentally retarded.**
 
 >**_Handicap_**
 
->>Handicapped is an outdated and unacceptable term to use when referring to individuals or accessible environments. 
+>>_Handicapped_ is an outdated and unacceptable term to use when referring to individuals or accessible environments. 
 
 >>>•	Accessible parking, not handicapped parking
 
 >>>•	Accessible restroom, not handicapped restroom
 
+**_Wheelchair User_**
+> People use wheelchairs for independent mobility. Do not use confined to a wheelchair or wheelchair bound. If a wheelchair is needed, say why.
 
 **Directions**
 
@@ -153,21 +159,26 @@ title: Commonly used terms and phrases
 > Always lowercase. Use figures and the $ sign in all except casual references or amounts without a figure. *The book cost $4.  Karen, can I borrow a dollar? (Correct: $4, $25, $500, $1,000, $650,000, $4.25 million, 5 cents, $1.01)*
 
 
-**Ethnic and racial references**
+**Race-related content**
 
->Some races and ethnicities have multiple terms associated with them. When possible, ask for a person’s preference (e.g., Native American vs. American Indian) and use only when necessary. Capitalize all proper names; lowercase designations of color (white, black). Compounds, such as African American, do not need hyphens when used as nouns. However, hyphenate these terms when used as adjectives, such as African-American studies. See individual entries below for specific references. 
+> Avoid broad generalizations and labels; race and ethnicity are one part of a person’s identity. Consider carefully whether to identify people by race. Often, it is an irrelevant factor and drawing unnecessary attention to someone’s race or ethnicity can be interpreted as bigotry. There are, however, occasions when race is pertinent:
+
+>> •	In stories that involve significant, groundbreaking or historical events such as being elected U.S. president, being named to the U.S. Supreme Court or other notable occurrences. _Barack Obama was the first black U.S. president._ 
+>> •	In cases where suspects or missing persons are being sought, and the descriptions provided are detailed and not solely racial. _Police are looking for man described as white, about 6 feet tall and 200 pounds, with black hair and blue eyes, wearing a plaid shirt and a Cincinnati Reds baseball cap._
+>> •	When reporting a demonstration, disturbance or other conflict involving race or issues like civil rights. 
+
 
 >**_African American_**
 
->>When used as a noun, African American is not hyphenated. When used as an adjective, it takes a hyphen. This word is not synonymous with black. It is to be used for people from the United States whose ancestors came from Africa. 
+>>No hyphen. Acceptable for an American black person of African descent. The terms are not necessarily interchangeable. Americans of Caribbean heritage, for example, generally refer to themselves as Caribbean American. Follow a person's preference.  
 
 >**_Asian American_**
 
->>Refers to someone of Asian origin. This is a diverse population with ancestral origins in South Asia, East Asia and Southeast Asia. Hyphenate as an adjective. 
+>>No hyphen. Acceptable for an American of Asian decent. When possible, refer to a person's country of origina or follow the person's preference.
 
 >**_Black_**
 
->>Preferred race/color descriptor for those with apparent African ancestry. Not strictly synonymous with African-Americans. If specific ethnicity is known, use that. 
+>>Acceptable as an adjective. Not strictly synonymous with African-Americans. If specific ethnicity is known, use that. 
 
 >>>•	African-American
 
@@ -177,17 +188,17 @@ title: Commonly used terms and phrases
 
 >**_Hispanic_**
 
->>Refers to a person from – or whose ancestors were from – a Spanish-speaking land or culture. Latino or Latina are sometimes preferred. Follow individual preferences when known. Use an individual’s country of ancestry, such as Cuban-American, if such designation is pertinent. 
+>>Refers to a person from – or whose ancestors were from – a Spanish-speaking land or culture. Latino or Latina are sometimes preferred. Follow individual preferences when known. Use a more specific identification when possible such as Cuban, Puerto Rican or Mexican American if such designation is pertinent. 
 
 
 **email**
 
-> email is acceptable in all references for electronic mail.  *(Not e-mail.)*
+> Acceptable in all references for electronic mail.  *(Not e-mail.)* Use a hyphen with other e- terms: _e-book, e-commerce, e-reader, etc._
 
 
 **every day, everyday**
 
->Every day is an adverbial expression. Everyday is an adjective.
+>_Every day_ is an adverb. _Everyday_ is an adjective.
 
 >>•	I get a large coffee at Starbucks every day.
 
@@ -201,21 +212,21 @@ title: Commonly used terms and phrases
 
 **Firefighter**
 
-> The preferred term is firefighter instead of fireman.
+> The preferred term to describe a person who fights fire is firefighter.
 
 
 **fiscal year**
 
 Do not capitalize when spelled out. When abbreviated, capitalize and put a space between FY and the year.
 
->>•	The mayor asked the divisions to cut their budgets by 10 percent in fiscal year 2020.
+>>•	The mayor asked the divisions to cut their budgets by 10% in fiscal year 2020.
 
 >>•	The City’s FY 2020 budget will reflect reductions across all divisions. 
 
 
 **Flier, flyer**
 
-> Flier is the preferred term for an aviator or a handbill. Flyer is the proper name of some trains and buses.  *Please post the flier on the bulletin board. The Western Flyer.*
+>Flyer is the preffered name for a person flying an aircraft or for a handbill.   *Please post the flyer on the bulletin board. The Western Flyer.* Use the word flier in the phrase take a flier, meaning to take a big risk.
 
 
 **Fraternal organizations and service clubs**
@@ -229,21 +240,32 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 
 >Hyphenate the adjective, not the noun.
 
+>>• He works full time.
+
+>>• She has a full-time job.
+
 >>•	Full-time employees work full time. 
 
 >>•	Part-time employees work part time. 
 
 
-**Gender and sexuality**
+**Gender**
 
->Gender refers to a person’s social identity while sex refers to biological characteristics. Not all people fall under one or two categories for sex or gender, according to leading medical organizations, so avoid references to both, either or opposite sexes or genders as a way to encompass all people. 
+>Not synonymous with _sex_. _Gender_ refers to a person’s social identity while _sex_ refers to biological characteristics. Not all people fall under one or two categories for _sex_ or _gender_, according to leading medical organizations, so avoid references to both, either or opposite sexes or genders as a way to encompass all people. 
 
->Use gay or lesbian when describing people who are attracted to members of the same sex. Avoid the use of homosexual and homosexual relationship. 
+**Sexuality**
 
->People who identify as transgender have a gender identity or expression that differs from what is typically associated with the sex they were assigned at birth.
+>Use gay or lesbian when describing people who are attracted to members of the same sex, although _lesbian_ is the more common term for women.
+
+**Transgender**
+
+>An adjective that describes people whose gender identity does not match the sex they were identified as having at birth.
 
 >People who identify as gender nonconforming have a gender identity or expression that does not conform to the traditional gender binary. 
 
+**LGBT, LGBTQ**
+
+>Acceptable in all references for lesbian, gay, bisexual and transgender, or lesbian, gay, bisexual, transgender and questioning and/or queer.
 
 **Government**
 
@@ -252,7 +274,7 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 
 **he, she / his, her**
 
->To avoid confusing and sexist writing, use plural nouns and pronouns, such as they, them, their or one, rather than a singular noun that then requires a singular pronoun. Also avoid the use of possessive pronouns when talking about workers. 
+>Do not presume maleness in constructing a sentence. Usually it is possible, and always preferable, to reword the sentence to avoid gender. 
 
 
 >>•	Incorrect:  An employee should have the approval of his/her supervisor.
@@ -265,17 +287,16 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 >>•	Correct: The division’s staff assistant.
 
 
-**home page**
+**homepage**
 
-> Use in reference to the first page of a website. Two words and lowercase.  *(home page)*
-
-
-**Internet**
-
-> Capitalize it as it is a proper noun. Also, capitalize the Net when referring to the Internet and Web when referring to the World Wide Web. *(Internet, Intranet, the Net, the Web)*
+> The "front" page of a website.
 
 
-**legislative**
+**legislative bodies**
+
+>In general, capitalize the proper name of a specific legistlative body abroad: _Parlinment_ 
+
+>The principle applies also to individual houses of the nation's legislature: _Senate, Congress_
 
 >Do not capitalize this adjective unless it begins a sentence.
 
@@ -293,7 +314,7 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 
 **Mount**
 
-> Spell it out.  *Mount Sterling, Mount Vernon*
+> Spell out in all uses.  *Mount Sterling, Mount Vernon*
 
 
 **Nonsexist writing**
@@ -306,33 +327,38 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 > One word in all cases for the computer connection term. *(Not on-line.)*
 
 
-**Pre-, post-**
+**Pre-** 
 
->Do not hyphenate words that take these prefixes unless the last letter of a prefix is the same as the first letter in the second word.
+>Generally do not hyphenate. Do not hyphenate double -e combinations with pre- and re- _(preeclection, preempt)_ otherwise, follow Webster's New World College Dictionare. Hyphenate if not listed there.
 
->>•	preregistration
 
->>•	pre-enrollment
+**Post-**
+
+>Follow Webster's New World College Dictionare. Hyphenate if not listed there.
 
 
 **Police officer**
 
-> The preferred term is police officer instead of policeman or policewoman.
+> The preferred term is police officer, not policeman or policewoman.
 
 
 **Regions**
 
-> Geographical terms commonly accepted as proper nouns are capitalized.  *Western Kentucky, Central Kentucky, the South and the North, the Far East*
+> In general, lowercase north, south northeast, etc. when they indicate compass direction, capitalize these words when they designate regions.  
+
+>>• *Western Kentucky, Central Kentucky, the South and the North, the Far East*
+>>• *She has a southern accent.*
 
 
 **Seasons**
 
-> The names of seasons are not capitalized unless they are part of a name:  *The new firefighter recruit class will start in the fall.  The Summer Golf Classic was held in July at Kearney Hill Golf Links.*
+> The names of seasons are not capitalized unless they are part of the formal name:  *The new firefighter recruit class will start in the fall.  The Summer Golf Classic was held in July at Kearney Hill Golf Links.*
 
 
 **State**
 
-> Lowercase in all state of constructions:  *the state of Tennessee, the states of Alabama and Georgia. Apply the same principles to phrases such as: the city of Lexington, the town of Hopkinsville.*
+> Lowercase in all state of constructions:  *the state of Tennessee, the states of Alabama and Georgia.* Apply the same principles to phrases such as: _the city of Lexington, the town of Hopkinsville._
+
 
 **state/federal**
 
@@ -345,6 +371,11 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 >>•	The current State budget is the largest in history.
 
 >>•	Nick is from the state of California. 
+
+
+**Subcommittee*
+
+>Lowercase when used with the name of a legislative body's full committee: _a Ways and Means subcommittee_
 
 
 **Through, Thru**
@@ -363,16 +394,25 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 
 **United States**
 
->Spell out as a noun; abbreviate (with no spaces between the letters) as an adjective.
+>Use periods in the abbreviation, U.S. within texts. In headlines, it's US (no perions).
 
 >>•	The United States is a popular destination for tourists.
 
 >>•	The official U.S. policy has not changed. 
 
 
+**web**
+>Short form of World Wide Web, it is not the same as the internet, but is a subset; other applications, such as email, exist on the internet.
+
+
+>>• web address
+
+>>• web browser
+
+
 **website**
 
-> A location on the World Wide Web that maintains one or more pages at a specific address.  But as a short form and in terms with separate words, the Web, Web page and Web feed.  *(website, not Website or web site)*
+> Also, webcam, webcast, webpage, webfeed, the web.
 
 
 **Workforce, workplace**
