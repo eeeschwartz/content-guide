@@ -6,41 +6,46 @@ title: Easily Confused Words
 
 **Accept, Except**
 
-> *	Accept means to receive: *Linda accepted her promotion with great pride.*
-> *	Except means to exclude: *The policy applies to everyone except new hires.*
+> *	_Accept_ means to receive: *Linda accepted her promotion with great pride.*
+> *	_Except_ means to exclude: *The policy applies to everyone except new hires.*
 
 
 **Advice, Advise**
 
-> *	Advice means to offer an opinion or make a recommendation: *The police officer offered advice on how to best secure the business.*
-> *	Advise means to offer guidance or wisdom:  *The supervisor advised the employee on how to handle calls from irate citizens.*
+> *	_Advice_ means to offer an opinion or make a recommendation: *The police officer offered advice on how to best secure the business.*
+> *	_Advise_ means to offer guidance or wisdom:  *The supervisor advised the employee on how to handle calls from irate citizens.*
 
 
 **Affect, Effect**
 
-> *	Affect, as a verb, means to influence:  *The game will affect the standings.*
-> *	Effect, as a verb, means to cause:  *He will effect many changes in the company.*
-> *	Effect, as a noun, means result:  *The effect was overwhelming.  The law was of little effect.*
+> *	_Affect_, as a verb, means to influence:  *The game will affect the standings.*
+> *	_Effect_, as a verb, means to cause:  *He will effect many changes in the company.*
+> *	_Effect_, as a noun, means result:  *The effect was overwhelming.  The law was of little effect.*
 
 
 **Aid, aide**
 
-> *	Aid is assistance:  *A staff assistant was hired to aid the payroll team.*
-> *	An aide is a person who serves as an assistant:  *An aide to the mayor said the new policy would be distributed to employees by the end of the week.*
+> *	_Aid_ is assistance:  *A staff assistant was hired to aid the payroll team.*
+> *	An _aide_ is a person who serves as an assistant:  *An aide to the mayor said the new policy would be distributed to employees by the end of the week.*
 
 
 **All ready, Already**
 
-> *	All ready means fully prepared: *The fire recruits were all ready for the test.*
-> *	Already means previously: *The commissioners were already in the conference room when the mayor arrived.*
+> *	_All ready_ means fully prepared: *The fire recruits were all ready for the test.*
+> *	_Already_ means previously: *The commissioners were already in the conference room when the mayor arrived.*
 
 
 **Assure, Ensure, Insure**
 
-> *	Assure means to give confidence:  *I assure you that we will be on time.*
-> *	Ensure means to make certain or guarantee:  *Steps were taken to ensure accuracy.*
-> *	Insure means to contract to pay or be paid money in the case of a loss. Insure is always used when matters of legal and financial protection are involved:  *She has not been able to insure her 15-year old car.*
+> *	_Assure_ means to give confidence:  *I assure you that we will be on time.*
+> *	_Ensure_ means to make certain or guarantee:  *Steps were taken to ensure accuracy.*
+> *	_Insure_ means to contract to pay or be paid money in the case of a loss. Insure is always used when matters of legal and financial protection are involved:  *She has not been able to insure her 15-year old car.*
 
+
+**Biweekly, semiweekly**
+
+>_Biweekly_ means every other week.
+>_Semiweekly_ means twice a week.
 
 **Bimonthly, Semimonthly**
 
