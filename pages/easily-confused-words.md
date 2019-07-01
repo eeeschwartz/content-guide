@@ -35,6 +35,12 @@ title: Easily Confused Words
 > *	_Already_ means previously: *The commissioners were already in the conference room when the mayor arrived.*
 
 
+**Among, between**
+
+> * The maxim that _between_ introduces two items and _among_ introduces more than two covers most questions about how to use these words:
+>> * The choice is _between_ fish and tofu.
+>> * The funds were divided _among_ Engineering, Planning and Streets & Roads.
+
 **Assure, Ensure, Insure**
 
 > *	_Assure_ means to give confidence:  *I assure you that we will be on time.*
@@ -44,25 +50,25 @@ title: Easily Confused Words
 
 **Biweekly, semiweekly**
 
->_Biweekly_ means every other week.
->_Semiweekly_ means twice a week.
+> * _Biweekly_ means every other week.
+> * _Semiweekly_ means twice a week.
 
 **Bimonthly, Semimonthly**
 
-> *	Bimonthly means every other month.
-> *	Semimonthly means two times a month.
+> *	_Bimonthly_ means every other month.
+> *	_Semimonthly_ means two times a month.
 
 
 **Complimentary, Complementary; Compliment, Complement**
 
-> *	Compliment is a noun or a verb that denotes praise or the expression of courtesy:  *The supervisor complimented the employees.  They received complimentary tickets to the basketball game.*
-> *	Complement is a noun and a verb denoting completeness or the process of supplementing something:  *The husband and wife have complementary careers.  The tie complements his suit.*
+> *	_Compliment_ is a noun or a verb that denotes praise or the expression of courtesy:  *The supervisor complimented the employees.  They received complimentary tickets to the basketball game.*
+> *	_Complement_ is a noun and a verb denoting completeness or the process of supplementing something:  *The husband and wife have complementary careers.  The tie complements his suit.*
 
 
 **Council, Counsel**
 
-> *	Council is a group that consults or advises: *The council voted unanimously to ban smoking in restaurants.*
-> *	Counsel means to advise: *The lawyer counseled his client.*
+> *	_Council_ is a body of people or ogranizations, often appointed or elected. Capitalize councilmember when used as a formal title before a name; otherwise, lowercase. *The council voted unanimously to ban smoking in restaurants.*
+> *	_Counsel_ refers to guidance, sometimes legal in nature and given by a lawyer or a person or people who provide such guidance: *The lawyer counseled his client.*
 
 
 **Every one, Everyone**
@@ -79,82 +85,82 @@ title: Easily Confused Words
 
 **Formally, Formerly**
 
-> *	Formally means officially, in a polite, mannered fashion: *The council formally signed into law a new ordinance on recycling.*
-> *	Formerly means previously, in the past: *The Division of Emergency Management, formerly known as DEEM, moved into their new office today.*
+> *	_Formally_ means officially, in a polite, mannered fashion: *The council formally signed into law a new ordinance on recycling.*
+> *	_Formerly_ means previously, in the past: *The Division of Emergency Management, formerly known as DEEM, moved into their new office today.*
 
 
 **In, Into**
 
-> *	In indicates location:  *He was in the office.*
-> *	Into indicates motion:  *He walked into the office.*
+> *	_In_ indicates location:  *He was in the office.*
+> *	_Into_ indicates motion:  *He walked into the office.*
 
 
 **Its, It's**
 
-> *	Its is the possessive form of the neuter pronoun.  It means "of" or "belonging to."  *The company lost its assets.*
-> *	It's is a contraction for "it is" or "it has."  *It's going to take months before the audit is completed.  It's been a long time.*
+> *	_Its_ is the possessive form of the neuter pronoun.  It means "of" or "belonging to."  *The company lost its assets.*
+> *	_It's_ is a contraction for "it is" or "it has."  *It's going to take months before the audit is completed.  It's been a long time.*
 
 
 **Lay, Lie**
 
-> *	The verb lay means to put something down. It always takes a direct object. *Lay the report on the desk.  I have laid the report on your desk.*  
-> *	The verb lie means to recline. It does not take a direct object. *I will lie down at noon.*
+> *	The action word is _lay_. It takes a direct object. Laid is the form for its past tense and its past participle. *Lay the report on the desk.  I have laid the report on your desk.*  
+> *	_Lie_ also has various other meanings, including to recline, to be situated or to exist. It does not take a direct object. Its past tense is lay. When lie means to make an untrue statement, the verb forms are lie, lied, lying.  *I will lie down at noon.*
 
 
 **Lose, Loose**
 
-> *	Lose means to misplace, be defeated or not win.  *He was certain he would lose the election.*
-> *	Loose means not tight or baggy.  *The child's pants were so loose they almost fell off.*
+> *	_Lose_ means to misplace, be defeated or not win.  *He was certain he would lose the election.*
+> *	_Loose_ means not tight or baggy.  *The child's pants were so loose they almost fell off.*
 
 
 **Moot, Mute**
 
-> *	The adjective moot refers to something that is debatable or of no practical importance.  *That is a moot question.* 
-> *	The adjective mute means unspoken or unable to speak.  *Press the mute button so we can't hear the ads.*
+> *	The adjective _moot_ refers to something that is debatable or of no practical importance.  *That is a moot question.* 
+> *	The adjective _mute_ means unspoken or unable to speak.  *Press the mute button so we can't hear the ads.*
 
 
 **Principal, Principle**
 
-> *	Principal is a noun and adjective meaning someone or something first in rank, authority, importance or degree.  *She is the school principal.  He was the principal player in the success of the team.*
-> *	Principle is a noun that means a fundamental truth, law, doctrine or motivating force.  *He was a man of principle.*  
+> *	_Principal_ is a noun and adjective meaning someone or something first in rank, authority, importance or degree.  *She is the school principal.  He was the principal player in the success of the team.*
+> *	_Principle_ is a noun that means a fundamental truth, law, doctrine or motivating force.  *He was a man of principle.*  
 
 
 **Set, Sit**
 
-> *	Set is a verb meaning "to put" or "to place." *He set the blueprint on the table.*
-> *	Sit is a verb meaning "to be seated." *He sat on the couch next to Linda.*
+> *	_Set_ is a verb meaning "to put" or "to place." *He set the blueprint on the table.*
+> *	_Sit_ is a verb meaning "to be seated." *He sat on the couch next to Linda.*
 
 
 **That, Which**
 
 Use that and which in referring to inanimate objects and to animals without a name.
 
-> *	Use that for essential clauses, important to the meaning of a sentence, and without commas.  *I remember the day that we met.*
-> *	Use which for nonessential clauses, where the pronoun is less necessary, and use commas.  *The team, which finished last a year ago, is in first place*
+> *	Use _that_ for essential clauses, important to the meaning of a sentence, and without commas.  *I remember the day that we met.*
+> *	Use _which_ for nonessential clauses, where the pronoun is less necessary, and use commas.  *The team, which finished last a year ago, is in first place*
 
 > **_Tip_:** *If you can drop the clause and not lose the meaning of the sentence, use which; otherwise use that.*
 
 
 **Their, There, They're**
 
-> *	Their is a possessive pronoun.  *The coworkers went to their office.*
-> *	There is an adverb indicating directions.  *We went there for lunch.*
-> *	They're is a contraction for they are.  *They're going to fire him for insubordination.*
+> *	_Their_ is a plural possessive pronoun.  *The coworkers went to their office.*
+> *	_There_ is an adverb indicating directions.  *We went there for lunch.*
+> *	_They're_ is a contraction for they are.  *They're going to fire him for insubordination.*
 
 
 **To, Too**
 
-> *	To means toward, in the direction or on the way to.  *She went to the director's office to get a copy of the report.*
-> *	Too means also, in addition or excessively. *There are far too many errors in this report. We attended the meeting, too.*
+> *	_To_ means toward, in the direction or on the way to.  *She went to the director's office to get a copy of the report.*
+> *	_Too_ means also, in addition or excessively. *There are far too many errors in this report. We attended the meeting, too.*
 
 
 **Who, Whom**
 
-> *	Who is the pronoun used for references to human beings and to animals with a name. It is grammatically the subject (never the object) of a sentence, clause or phrase. *The councilmember, who lives nearby, came to the meeting.*  
-> *	Whom is used when someone is the object of a verb or preposition. *Whom do you wish to see?*
+> *	_Who_ is the pronoun used for references to human beings and to animals with a name. It is grammatically the subject (never the object) of a sentence, clause or phrase. *The councilmember, who lives nearby, came to the meeting.*  
+> *	_Whom_ is used when someone is the object of a verb or preposition. *Whom do you wish to see?*
 
 
 **Who's, Whose**
 
-> *	Who is the pronoun used for references to human beings and to animals with a name. It is grammatically the subject (never the object) of a sentence, clause or phrase. *Who's the guy in the blue shirt?  Who is there?*
-> *	Whose is the possessive.  *Whose department do you work for?  I do not know whose coat it is.*
+> *	_Who's_ is a contraction for who is, not a possessive: who's there? *Who's the guy in the blue shirt?  Who is there?*
+> *	_Whose_ is the possessive.  *Whose department do you work for?  I do not know whose coat it is.*
