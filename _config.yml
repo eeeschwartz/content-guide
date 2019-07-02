@@ -45,8 +45,8 @@ navigation:
 - text: Links
   url: links/
   internal: true
-- text: Numbers
-  url: numbers/
+- text: Numerals
+  url: numerals/
   internal: true
 - text: Place
   url: place/
