@@ -1,12 +1,12 @@
 ---
-permalink: numbers/
+permalink: numerals/
 layout: default
-title: Numbers
+title: Numerals
 ---
 
-* Spell out numbers one through nine, and use numerals for 10 and above.
+* In general, spell out one through nine. Use figures for 10 or above and whenever preceding a unit of meausre or referring to ages of people, animals, events or things.
 
-> _I want five copies.  I want 10 copies._
+> _I want five copies.  I want 10 copies. The 7-year old house._
 
 * Spell out first through ninth; use figures for 10th and above.
 
@@ -16,7 +16,7 @@ title: Numbers
 
 > _Forty people were invited to the meeting._
 
-* Always spell out simple fractions and use hyphens with them.
+* Generally spell out amounts less than one in stories using hyphens between the words.
 
 > _A two-thirds majority is required for that policy to pass._
 
@@ -24,7 +24,9 @@ title: Numbers
 
 > _Sidney Allen, 8, was awarded the prize._
 
-* When referring to a percentage in a sentence, spell out the word "percent" rather than using the % symbol. A numeral is required before the word percent unless it comes at the beginning of the sentence.
+* Percent, percentage, percentage points
+
+Use the % sign when paired with a numeral, with no space, in most cases: _Average hourly rate rose 3.1% from a year ago. She won 56.2% of the vote._ Use figures: _4 percentage points_
 
 > _The mayor said the budget would be increased by 7 percent._
 > _Seven percent of the budget had to be cut._
