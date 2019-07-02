@@ -4,43 +4,11 @@ layout: default
 title: Links
 ---
 
-Links are most effective when they are specific and descriptive. When you create a link, highlight text that will give users a clear idea of what they will see if they follow it.
-
-> *To be ready for the unexpected, you and your family need to [make an emergency plan](#).*
->
-> **– NOT –**
->
-> *To be ready for the unexpected, you can find out how to create an emergency plan [here](#).*
-
-**Click here**
-
-Do not use this phrase as the label for any link. Since “click here” is not descriptive, it makes it harder for people to find the linked content through a search engine. It’s also becoming an outdated term, as mobile devices involve “tapping,” not “clicking.”
-
-**Learn more**
-
-You can use this phrase as link text when it follows a preview or brief description of a content item. You should use it in combination with a linked headline, not as a replacement for a linked headline. Useful when pointing to content that is a mixture of text, images, and interactive tools, since it is not as specific as “read more.”
-
-> **_Emergency Plan_**
->
-> *To be ready for the unexpected, you and your family need to make an emergency plan.*
->
-> *[Learn More](#)*
-
-**Read more**
-
-This is a more specific version of “Learn more.” Use it as link text after a preview or brief description of a content item, when the content item is primarily text.
-
-> **_Emergency Plan_**
->
-> *To be ready for the unexpected, you and your family need to make an emergency plan.*
->
-> *[Read More](#)*
-
-### Link Destinations
+### Link destinations
 
 When you create a link, think about where you are sending the user and why. Check to make sure that you have picked the most relevant and authoritative destination so users will get the best information available as quickly as possible. For example, if the Department of Health issues a statement that you are citing, link to the Health statement, rather than to an outside news story that quotes the statement.
 
-You should also be consistent when determining what will happen when someone follows a link. Lexingtonky.gov follows these guidelines for opening new tabs or windows in a user’s browser:
+You should also be consistent when determining what will happen when someone follows a link. The City's website adheres to these guidelines for opening new tabs or windows in a user’s browser:
 
 **Do not automatically open new tabs or windows**
 
