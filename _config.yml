@@ -51,8 +51,8 @@ navigation:
 - text: Place
   url: place/
   internal: true
-- text: Plain English
-  url: plain-english
+- text: How to write for lexingtonky.gov
+  url: how-to-write-for-lexingtonky-gov
   internal: true
 - text: Punctuation
   url: punctuation/
