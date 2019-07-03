@@ -3,7 +3,7 @@ permalink: punctuation/
 layout: default
 title: Punctuation
 ---
-There is no alternative to correct punctuation. Incorrect punctuation can change the meaning of a sentence and/or cause the reader to lose track of what is being said and give up reading. The basic guideline to use in punctuation is to use common sense. Punctuation is to make clear the thought being expressed. If it does not help make clear what is being said, it should not be there.
+There is no alternative to correct punctuation. Incorrect punctuation can change the meaning of a sentence and/or cause the reader to lose track of what is being said and give up reading. The basic guideline to use in punctuation is to use common sense. Punctuation is to make clear the thought being expressed. If punctuation does not help make clear what is being said, it should not be there.
 
 
 **Apostrophe (')**
@@ -24,11 +24,9 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 **Ampersand (&)**
 
-> Do not use the ampersand (&) as an abbreviation for and. Use the ampersand when it is part of a company's formal name or composition title:  
+> The ampersand (&) should not otherwise be used in place of _and_, except for some accepted abbreviations: _B&B, R&B_ Use the ampersand when it is part of a company's formal name or composition title:  
 
->> *Procter & Gamble*  
-
-> The ampersand should not otherwise be used in place of and: 
+>> *Procter & Gamble*   
 
 >> *Division of Facilities and Fleet Management*
 >>
@@ -37,17 +35,17 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 >> *Division of Facilities & Fleet Management*
 
 
-
 **Colon (:)**
 
-> The most common use of the colon is at the end of a sentence to introduce lists, tabulations, examples, series, etc.  
+> Captilaize the first word after a colon only if it is a proper noun or the start of a complete sentence.  
 
 >> *Several people attended the meeting: Callie, Cory, Ryan, Janie and Landon.*
+>> *He promised this: The company will make good on all loses.*
 
 
 **Comma (,)**
 
-> The following guidelines treat some of the most frequent questions about the use of commas.  
+> The following guidelines treat some of the most frequent questions about the use of commas. As with all punctuation, clarity is the biggest rule: If a comma does not help make clear what is being said, it should not be there.
 
 > Use commas after introductory clauses, phrases or words that come before the main clause. Common starter words for introductory clauses that should be followed by a comma include after, although, as, because, if, since, when and while.
 
@@ -59,7 +57,23 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 >> *That Tuesday, which happens to be my birthday, is the only day when I am available to meet.* 
 
 
-**Comma Abuse**
+**Series**
+
+> Do not include the comma before the final conjunction in a series:  
+
+>> *Meetings will be held in June, July and August.*  
+>> *The flag is red, white and blue.*
+
+> * Exception: When the last item of the series links two nouns with the word "and," use a comma: 
+
+>> *The participants included representatives from the departments of Social Services, Finance, and Environmental Quality and Public Works.*
+
+> * If there is a comma in one component of the series, use a semicolon: 
+
+>> *Key activities included education and training events; collaborative solutions to community problems; and sound organizational management at the international, national and local levels.*
+
+
+**Comma abuse**
 
 > Commas in the wrong places can break a sentence into illogical segments or confuse readers with unnecessary and unexpected pauses.
 
@@ -73,6 +87,8 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 
 **Ellipsis (…)**
+
+>In general treat an ellipsis as a three-letter word, constructed with three periods and two spaces.
 
 > Use ellipses to indicate the deletion of one or more words in condensing quotes, texts and documents, or to indicate hesitation. Be careful to avoid deletion that would distort the meaning.  
 
@@ -96,15 +112,15 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 **En Dash (–)**
 
-> An en dash is half the width of an em dash.  Use the en dash, with spaces on both sides, to indicate continuing numbers or date:  
+> AP Style does not use en dashes. An en dash is half the width of an em dash.  Some other styles call for en dashes to indicate ranges of dates or times, or with some compound modifiers.
 
->> *pp. 25 – 52.*  
->> *Oct. 1985 – Jan. 1987.*
+>> *pp. 25–52.*  
+>> *Oct. 1985–Jan. 1987.*
 
 
 **Exclamation point (!)**
 
-> Avoid overuse of this mark! Use the mark to express a high degree of surprise, incredulity or other strong emotion. And please, use only one at a time! Place the mark inside quotation marks when used as part of a quote. 
+> Use the mark to express a high degree of surprise, incredulity or other strong emotion. Avoid overuse. Place the mark inside quotation marks when it is part of the quoted material. 
 
 >> *Incorrect: "Stop!", the police officer yelled.*
 
@@ -113,7 +129,7 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 **Hyphen (-)**
 
-> The hyphen is used for words like full-time, little-known and well-being.  
+> Use hyphen as joiners, such as for compound modifiers: full-time, little-known and well-being.  
 
 > *	To avoid ambiguity: Use a hyphen whenever ambiguity would result if it were omitted: 
 
@@ -125,18 +141,10 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 >>>	Exception:  Do not use a hyphen with the adverb very and all adverbs that end in ly:  
 >>>> *a very good time, an easily remembered rule*
 
-> *	Hyphenate words that can be mistaken for other words. 
-
->> *re-creation, recreation*
-
-> *	Words made with these prefixes are generally not hyphenated: 
-
->> *anti, bi, co, extra, inter, micro, mid, multi, non, over, post, pre, pro, re, semi, sub, un and under.*
-
 
 **Semicolon (;)**
 
-> A semicolon serves as a strong comma, and is usually used to clarify a series.
+> In general, use the semicolon to indicate a greater separation of thought and information than a comma, can convey but less than the seperation that a period implies.
 
 >> *	To clarify a series:  When individual segments contain material that also must be set off by commas:  He leaves a daughter, Sidney Brown of Lexington; three sons, Johnny Smith of Dallas, Tim Smith of Louisville, Ky., and Randy Smith of Nashville, Tenn.; and a sister, Dorothy McAdams, of Richmond, Ky.
 >> *	To link independent clauses: When a coordinating conjunction such as and, but or for is not present.
@@ -146,37 +154,19 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 >> **_Correct_:** *The package was due last week; it arrived today.*
 
 
-**Series**
-
-> Do not include the comma before the final conjunction in a series:  
-
->> *Meetings will be held in June, July and August.*  
->> *The flag is red, white and blue.*
-
-> * Exception: When the last item of the series links two nouns with the word "and," use a comma: 
-
->> *The participants included representatives from the departments of Social Services, Finance, and Environmental Quality and Public Works.*
-
-> * If there is a comma in one component of the series, use a semicolon: 
-
->> *Key activities included education and training events; collaborative solutions to community problems; and sound organizational management at the international, national and local levels.*
-
-
 **Quotation Marks (")**
 
-> Put quotation marks around the titles of all works (books, songs, plays, operas, chapters, television shows, speech titles) except the Bible and compositions that are primarily catalog or reference materials, including newspapers, scholarly and medical journals, and magazine names; do not italicize.
+>The basic guidelines for open-quote marks (“) and close-quote marks (”).
 
->> *	*"Robinson Crusoe"*
->> *	*"The Star-Spangled Banner"*
->> *	*"60 Minutes"*
->> *	*"A Midsummer Night's Dream"*
->> *	*"I Have a Dream Speech"*
->> *	*The Lexington Herald-Leader*
->> *	*The American Journal of Medicine*
->> *	*Newsweek*
+>For direct quotations: To surround the exact words of a speaker or writer when reported in a story. _The mayor said, “We are asking all divisions to but their budgets by 10%.”_
 
-> Qoutation marks are also used before and after a quote is introduced: 
+>Composition titles:  Put quotation marks around the names of all such works except the Bible, the Quran and other holy books, and books that are primarily catalogs of reference material. In addition to catalogs, this category includes almanacs, directories, dictionaries, encyclopedias, handbooks and similar publications.  “Star Wars,” “The Star-Spangled Banner,” the “Today” show, Webster’s New World Dictionary
+ 
+>Unfamiliar terms: A word or words being introduced to readers may be placed in quotation marks on first reference. _Broadcast frequencies are measured in “kilohertz.” _
 
->> *Brian said, "She spent six months working on the project."* 
+>Quotes within quotes: Alternate between double quotation marks (“or”) and single marks (‘or’): _She said, “I quote from his letter, ‘I agree with Kipling that “the female of the species is more deadly than the male,” but the phenomenon is not an unchangeable law of nature,’ a remark he did not explain.”_
 
->> *"She spent six months working on the project," said Brian.*
+>Placement with other punctuation: Following these long-established printers’ rules:
+>>•	The period and the comma always go within the quotation marks.
+>>•	The dash, the semicolon, the colon, the question mark and the exclamation point go within the quotation marks when they apply to the quoted matter only. They go outside when they apply to the whole sentence. 
+
