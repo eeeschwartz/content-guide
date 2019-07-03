@@ -18,7 +18,6 @@ One space after comma.                               | Never two spaces after co
 One space after semi-colon.                          | Never two spaces after semi-colon. 
 Company ABC Inc.                                     | Company ABC, Inc. 
 lions, tigers and bears.                             | lions, tigers, and bears. 
-percent                                              | % (unless used within a graph or chart) 
 a.m., p.m.                                           | AM, PM / am, pm 
 7 – 9 a.m.                                           | 7:00 – 9:00 p.m. 
 21st Annual Woodland Art Fair                        | 21 Annual Woodland Art Fair 
