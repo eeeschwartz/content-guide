@@ -67,7 +67,7 @@ title: Easily Confused Words
 
 **Council, Counsel**
 
-> *	_Council_ is a body of people or ogranizations, often appointed or elected. Capitalize councilmember when used as a formal title before a name; otherwise, lowercase. *The council voted unanimously to ban smoking in restaurants.*
+> *	_Council_ is a body of people or organizations, often appointed or elected. Capitalize councilmember when used as a formal title before a name; otherwise, lowercase. *The council voted unanimously to ban smoking in restaurants.*
 > *	_Counsel_ refers to guidance, sometimes legal in nature and given by a lawyer or a person or people who provide such guidance: *The lawyer counseled his client.*
 
 
