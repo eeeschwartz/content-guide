@@ -97,7 +97,7 @@ title: Commonly used terms and phrases
 
 **City council**
 
-> Capitalize when part of a proper name:  *The Lexington City Council. *
+> Capitalize when part of a proper name:  *The Lexington City Council.*
 
 > Use lowercase in plural and generic uses:  *Lexington, Louisville and Cincinnati city councils.*
 
@@ -136,7 +136,7 @@ title: Commonly used terms and phrases
 
 >**_Disabled_**
 
->>A general term used for a physical, mental, developmental or intellectual disability. **Do not use mentally retarded.**
+>>A general term used for a physical, mental, developmental or intellectual disability. Do not use mentally retarded.
 
 >**_Handicap_**
 
@@ -174,7 +174,7 @@ title: Commonly used terms and phrases
 
 >**_Asian American_**
 
->>No hyphen. Acceptable for an American of Asian decent. When possible, refer to a person's country of origina or follow the person's preference.
+>>No hyphen. Acceptable for an American of Asian descent. When possible, refer to a person's country of origin or follow the person's preference.
 
 >**_Black_**
 
@@ -217,7 +217,7 @@ title: Commonly used terms and phrases
 
 **fiscal year**
 
-Do not capitalize when spelled out. When abbreviated, capitalize and put a space between FY and the year.
+The 12-month period that a coporation or government body uses for bookkeeping purposes.
 
 >>•	The mayor asked the divisions to cut their budgets by 10% in fiscal year 2020.
 
@@ -329,12 +329,12 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 
 **Pre-** 
 
->Generally do not hyphenate. Do not hyphenate double -e combinations with pre- and re- _(preeclection, preempt)_ otherwise, follow Webster's New World College Dictionare. Hyphenate if not listed there.
+>Generally do not hyphenate. Do not hyphenate double -e combinations with pre- and re- _(preeclection, preempt)_ otherwise, follow Webster's New World College Dictionary. Hyphenate if not listed there.
 
 
 **Post-**
 
->Follow Webster's New World College Dictionare. Hyphenate if not listed there.
+>Follow Webster's New World College Dictionary. Hyphenate if not listed there.
 
 
 **Police officer**
@@ -373,7 +373,7 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 >>•	Nick is from the state of California. 
 
 
-**Subcommittee*
+**Subcommittee**
 
 >Lowercase when used with the name of a legislative body's full committee: _a Ways and Means subcommittee_
 
@@ -394,7 +394,7 @@ Do not capitalize when spelled out. When abbreviated, capitalize and put a space
 
 **United States**
 
->Use periods in the abbreviation, U.S. within texts. In headlines, it's US (no perions).
+>Use periods in the abbreviation, U.S. within texts. In headlines, it's US (no periods).
 
 >>•	The United States is a popular destination for tourists.
 
