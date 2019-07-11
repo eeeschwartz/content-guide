@@ -45,7 +45,7 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 **Comma (,)**
 
-> The following guidelines treat some of the most frequent questions about the use of commas. As with all punctuation, clarity is the biggest rule: If a comma does not help make clear what is being said, it should not be there.
+> The following guidelines treat some of the most frequent questions about the use of commas. As with all punctuation, clarity is the biggest rule. If a comma does not help make clear what is being said, it should not be there.
 
 > Use commas after introductory clauses, phrases or words that come before the main clause. Common starter words for introductory clauses that should be followed by a comma include after, although, as, because, if, since, when and while.
 
@@ -138,7 +138,9 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 > * Two or more words that express a single concept: Use hyphens to link all the words in the compound: 
 
 >> *a full-time job, a better-qualified woman, a well-known aide*
->>>	Exception:  Do not use a hyphen with the adverb very and all adverbs that end in ly:  
+
+>>>	Exception:  Do not use a hyphen with the adverb very and all adverbs that end in ly: 
+
 >>>> *a very good time, an easily remembered rule*
 
 
