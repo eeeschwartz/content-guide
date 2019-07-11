@@ -217,16 +217,25 @@ Don’t use – _To be ready for the unexpected, you can find out how to create 
 There will be content that can be shortened, clarified or even deleted.
 
 Check user focus
+
 > Who is the user?
->	What do they want to do?
->	When is it done?
+
+> What do the want to do?
+
+> When is it done?
 
 Check task direction
->	Does the first sentence explain what the service does?
+
+> Does the first sentence explain what the service does?
+
 > Does each sentence help the user with the task?
 
 Shorten content
->	Sentences should be under 15 words.
->	Paragraphs should have three sentences or less.
->	Write subheadings about every three paragraphs.
->	Use bulleted lists instead of long sentence lists.
+
+> Sentences should be under 15 words.
+
+> Paragraphs should have three sentences or less.
+
+> Write subheadings about every three paragraphs.
+
+> Use bulleted lists instead of long sentence lists.
