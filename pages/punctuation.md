@@ -139,9 +139,9 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 >> *a full-time job, a better-qualified woman, a well-known aide*
 
->>>	Exception:  Do not use a hyphen with the adverb very and all adverbs that end in ly: 
+>>> Exception: Do not use a hyphen with the adverb very and all adverbs that end in ly:
 
->>>> *a very good time, an easily remembered rule*
+>>> *a very good time, an easily remembered rule*
 
 
 **Semicolon (;)**
