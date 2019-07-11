@@ -6,7 +6,7 @@ title: How to write for the website
 
 All content on the City’s website must be written at or below a 5th-grade reading level. 
 
-You can paste your text into the Hemingway Editor to check readability.
+You can paste your text into the <a href="http://www.hemingwayapp.com/">Hemingway Editor</a> to check readability.
 
 **Content principles**
 
@@ -32,10 +32,12 @@ _User_ needs are what we call the tasks a person comes to the website or service
 
 >_As a (user)_
 >> I want to (do something)
+
 >> So that I can (expected action)
 
 >_We know it is done when_
 >> The user understands something
+
 >> The user understands another thing
 
 Example:
@@ -53,6 +55,7 @@ Example:
 Our residents need to do things, not so much ‘find out about’ or ‘get more information on.’  The information you provide on lexingtonky.gov should empower residents to get something done.
 
 > Use – apply for an alcohol license	Not – Regulations about selling alcohol
+
 > Use – register for swim lessons		Not – Swim Lessons: General information
 
 **Get information about your users**
@@ -86,6 +89,7 @@ Titles should be in sentence case so only the first letter is capitalized. This 
 Don’t use puns, jokes or idiomatic expressions in titles. They don’t translate well into other cultures or languages.
 
 > Use – Start a business			Not – Get your business off the ground
+
 > Use – Register for swim lessons		Not – Learn more about Parks & Recreation swim classes
 
 **Summaries**
@@ -195,7 +199,6 @@ Passive voice – The subject of the sentence is now being acted upon.
 >_The customer was being helped (by the staff assistant)._
 >_The report was written yesterday (by the director)._
 
-_Please and welcome to_
 Don’t use _‘please’_ when you are telling residents or visitors what they need to do. Be direct and authoritative. 
 
 Don’t _‘welcome’_ the reader to your content. People are on the page to get something done. Get to the point. 
