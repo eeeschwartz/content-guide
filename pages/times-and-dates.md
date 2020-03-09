@@ -1,7 +1,7 @@
 ---
 permalink: times-and-dates/
 layout: default
-title: Times and Dates
+title: Times and dates
 ---
 
 * Use figures for time, except noon and midnight: 
