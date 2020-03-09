@@ -1,7 +1,7 @@
 ---
 permalink: easily-confused-words/
 layout: default
-title: Easily Confused Words
+title: Easily confused words
 ---
 
 **Accept, except**
