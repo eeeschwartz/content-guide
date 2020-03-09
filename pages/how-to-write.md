@@ -148,7 +148,7 @@ Do not presume maleness in constructing a sentence. Usually, it is possible, and
 
 Using "you" and "we" should prevent the need to use pronouns. If you can’t avoid using pronouns, use the gender-neutral pronouns "they" and "their."
 
-> Incorrect – _An employee should have the approval of his/her supervisor_
+> Incorrect – _An employee should have the approval of his/her supervisor._
 > Correct – _An employee should have the approval of their supervisor._ 
 
 > Incorrect – _His administrative assistant._
@@ -178,11 +178,11 @@ Use bulleted lists instead of long sentence lists. Convert a sentence to a bulle
 Use strong verbs:
 Strong verbs tell readers what they need to do. Verbs make it easy to get involved or take action.
 
-> Use – _Pay your LexServ bill.
-> Not – _LexServ payment process.
+> Use – Pay your LexServ bill.
+> Not – LexServ payment process.
 
-> Use – _Register a new business.
-> Not – _Business registration certificate.
+> Use – Register a new business.
+> Not – Business registration certificate.
 
 Use active voice:
 Writing in the passive voice makes your content more difficult to understand.
