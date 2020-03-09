@@ -54,9 +54,9 @@ Example:
 
 Our residents need to do things, not so much "find out about" or "get more information on."  The information you provide on lexingtonky.gov should empower residents to get something done.
 
-> Use – apply for an alcohol license.	Not – Regulations about selling alcohol.
+> Use – Apply for an alcohol license.	Not – Regulations about selling alcohol.
 
-> Use – register for swim lessons.		Not – Swim Lessons: General information.
+> Use – Register for swim lessons.		Not – Swim Lessons: General information.
 
 **Get information about your users**
 
