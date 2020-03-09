@@ -6,7 +6,7 @@ title: Titles
 
 * In general, confine capitalization to formal titles used directly before an individual's name:  
 
-    > _Councilmember Joseph P. Yancey, Mayor Jacqueline J. Brown_
+    > _Councilmember Joseph P. Yancey, Mayor Jacqueline J. Brown_.
   
 * Lowercase and spell out titles when they are not used with or in front of an individual's name:  
 
