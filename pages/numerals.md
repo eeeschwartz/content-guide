@@ -31,7 +31,7 @@ Use the % sign when paired with a numeral, with no space, in most cases: _Averag
 > _The mayor said the budget would be increased by 7 percent._
 > _Seven percent of the budget had to be cut._
 
-* Phone Number Use parentheses around the area code and put a space between the area code and the rest of the phone number.
+* Phone Number: Use parentheses around the area code and put a space between the area code and the rest of the phone number.
 
 > _(859) 555-1212_.    
 > _(859) 555-1212, ext. 402_.
