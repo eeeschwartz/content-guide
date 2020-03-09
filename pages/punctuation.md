@@ -164,7 +164,7 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 >Composition titles:  Put quotation marks around the names of all such works except the Bible, the Quran and other holy books, and books that are primarily catalogs of reference material. In addition to catalogs, this category includes almanacs, directories, dictionaries, encyclopedias, handbooks and similar publications.  “Star Wars,” “The Star-Spangled Banner,” the “Today” show, Webster’s New World Dictionary.
  
->Unfamiliar terms: A word or words being introduced to readers may be placed in quotation marks on first reference. _Broadcast frequencies are measured in “kilohertz.” 
+>Unfamiliar terms: A word or words being introduced to readers may be placed in quotation marks on first reference. _Broadcast frequencies are measured in “kilohertz.”_ 
 
 >Quotes within quotes: Alternate between double quotation marks (“or”) and single marks (‘or’): _She said, “I quote from his letter, ‘I agree with Kipling that “the female of the species is more deadly than the male,” but the phenomenon is not an unchangeable law of nature,’ a remark he did not explain.”_
 
