@@ -24,7 +24,7 @@ Ky. (KY)   | N.Y. (NY)  | Wis. (WI)
 La. (LA)   | N.C. (NC)  | Wyo. (WY)
 
 * Never abbreviate Alaska, Hawaii, Idaho, Iowa, Maine, Ohio, Texas and Utah.
-* Spell the state name out completely when it stands alone.
+* Spell the state name out completely when it is used in the body of a story, whether standing alone or in conjunction with a city or town.
 
 > *We are going to Colorado for vacation this year.*
 > *I was born in Georgia.*
