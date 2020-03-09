@@ -39,7 +39,7 @@ title: Commonly used terms and phrases
 >>•	Altogether, our achievements are very great.
 
 
-**among, between**
+**Among, between**
 
 >Among is used when there are more than two objects. Between is used when there are two objects.
 
@@ -48,7 +48,7 @@ title: Commonly used terms and phrases
 >>•	Between you and me, I don’t think he is the right person for the job. 
 
 
-**awhile, a while**
+**Awhile, a while**
 
 >Awhile is an adverb. A while is a noun phrase that follows the preposition for or in. 
 
@@ -59,17 +59,17 @@ title: Commonly used terms and phrases
 
 **At large**
 
-> Usually two words for an individual representing more than a single district: *congressman at large, councilwoman at large*
+> Usually two words for an individual representing more than a single district: *congressman at large, councilwoman at large*.
 
 
 **Bluegrass**
 
 > One word and capitalized when used to represent the region. The lowercase version refers to the type of grass.  *Kentucky is often called the Bluegrass State. The landscape crew spread bluegrass seed on the soccer field.* 
 
->> **PLEASE NOTE:** *There are exceptions to this rule. (Blue Grass Airport)  It is best to double check the correct usage on the company's website or call them to confirm.*
+>> **PLEASE NOTE:** *There are exceptions to this rule: Blue Grass Airport.  It is best to double check the correct usage on the company's website or call them to confirm.*
 
 
-**bring, take**
+**Bring, take**
 
 >_To bring_ means moving something toward a location. _To take_ means moving something away from a location.
 
@@ -83,16 +83,16 @@ title: Commonly used terms and phrases
 > In general, lowercase central when it indicates compass direction and capitalize when it designates a region.  *The central business district.  We have lived in Central Kentucky for seven years.*
 
 
-**Chairman, Chairwoman, Chairperson, Chair**
+**Chairman, chairwoman, chairperson, chair**
 
-> Capitalize as a formal title before a name: *company Chairman Henry Ford, committee Chairwoman Jessica Elgin, board Chairperson Riley Winters*
+> Capitalize as a formal title before a name: *company Chairman Henry Ford, committee Chairwoman Jessica Elgin, board Chairperson Riley Winters*.
 
 > Do not capitalize as a casual, temporary position: *meeting chairman Phillip Edwards*  
 
 
 **Chamber**
 
-> When refering to where the city council meets, always refer to it as the council chamber. Do not refer to it as the city council chambers. *There is a meeting in the council chamber at 2:30 p.m.*
+> When referring to where the city council meets, always refer to it as the council chamber. Do not refer to it as the city council chambers. *There is a meeting in the council chamber at 2:30 p.m.*
 
 
 **City council**
@@ -107,7 +107,7 @@ title: Commonly used terms and phrases
 > Kentucky is one of four U.S. states that are legally a commonwealth. The others are Massachusetts, Pennsylvania and Virginia. The state's actual name is the "Commonwealth of Kentucky." When the phrase "the Commonwealth" is used meaning Kentucky, commonwealth should be capitalized. Lowercase in all other uses.
 
 
-**Company, Corporation**
+**Company, corporation**
 
 > Use Co. or Cos. when a business uses either word at the end of its proper name. If company or companies appears alone in second reference, spell the word out.
 
@@ -117,7 +117,7 @@ title: Commonly used terms and phrases
 > The preferred term is councilmember. *The meeting was called to order by Councilmember John Kirkman. To report an issue in your neighborhood, you should contact your councilmember.*
 
 
-**Days of the Week**
+**Days of the week**
 
 > Capitalize them. Do not abbreviate, except when needed in a tabular format: *Sun, Mon, Tue, Wed, Thu, Fri, Sat (three letters, without periods, to facilitate tabular composition).*
 
@@ -142,21 +142,21 @@ title: Commonly used terms and phrases
 
 >>_Handicapped_ is an outdated and unacceptable term to use when referring to individuals or accessible environments. 
 
->>>•	Accessible parking, not handicapped parking
+>>>•	Accessible parking, not handicapped parking.
 
->>>•	Accessible restroom, not handicapped restroom
+>>>•	Accessible restroom, not handicapped restroom.
 
-**_Wheelchair User_**
+**_Wheelchair user_**
 > People use wheelchairs for independent mobility. Do not use confined to a wheelchair or wheelchair bound. If a wheelchair is needed, say why.
 
 **Directions**
 
-> In general, lowercase north, south, northeast, southern, etc. when they indicate compass direction. Capitalize these words when they designate regions.  *He drove south.  The cold front is moving east. She has a Southern accent. He is a Northerner.*  
+> In general, lowercase north, south, northeast, southern, etc. when they indicate compass direction. Capitalize these words when they designate regions:  *He drove south.  The cold front is moving east. She has a Southern accent. He is a Northerner.*  
 
 
 **Dollars**
 
-> Always lowercase. Use figures and the $ sign in all except casual references or amounts without a figure. *The book cost $4.  Karen, can I borrow a dollar? (Correct: $4, $25, $500, $1,000, $650,000, $4.25 million, 5 cents, $1.01)*
+> Always lowercase. Use figures and the $ sign in all except casual references or amounts without a figure. *The book cost $4.  Karen, can I borrow a dollar? (Correct: $4, $25, $500, $1,000, $650,000, $4.25 million, 5 cents, $1.01.)*
 
 
 **Race-related content**
@@ -178,25 +178,25 @@ title: Commonly used terms and phrases
 
 >**_Black_**
 
->>Acceptable as an adjective. Not strictly synonymous with African-Americans. If specific ethnicity is known, use that. 
+>>Acceptable as an adjective. Not strictly synonymous with African Americans. If specific ethnicity is known, use that. 
 
->>>•	African-American
+>>>•	African-American.
 
->>>•	Caribbean
+>>>•	Caribbean.
 
->>>•	African
+>>>•	African.
 
 >**_Hispanic_**
 
 >>Refers to a person from – or whose ancestors were from – a Spanish-speaking land or culture. Latino or Latina are sometimes preferred. Follow individual preferences when known. Use a more specific identification when possible such as Cuban, Puerto Rican or Mexican American if such designation is pertinent. 
 
 
-**email**
+**Email**
 
 > Acceptable in all references for electronic mail.  *(Not e-mail.)* Use a hyphen with other e- terms: _e-book, e-commerce, e-reader, etc._
 
 
-**every day, everyday**
+**Every day, everyday**
 
 >_Every day_ is an adverb. _Everyday_ is an adjective.
 
@@ -205,7 +205,7 @@ title: Commonly used terms and phrases
 >>•	Going out for lunch is not an everyday occurrence. 
 
 
-**fax**
+**Fax**
 
 > Preferable for facsimile or facsimile machine in all uses. *(Not Fax or FAX.)*
 
@@ -215,9 +215,9 @@ title: Commonly used terms and phrases
 > The preferred term to describe a person who fights fire is firefighter.
 
 
-**fiscal year**
+**Fiscal year**
 
-The 12-month period that a coporation or government body uses for bookkeeping purposes.
+The 12-month period that a corporation or government body uses for bookkeeping purposes.
 
 >>•	The mayor asked the divisions to cut their budgets by 10% in fiscal year 2020.
 
@@ -226,17 +226,17 @@ The 12-month period that a coporation or government body uses for bookkeeping pu
 
 **Flier, flyer**
 
->Flyer is the preffered name for a person flying an aircraft or for a handbill.   *Please post the flyer on the bulletin board. The Western Flyer.* Use the word flier in the phrase take a flier, meaning to take a big risk.
+>Flyer is the preferred name for a person flying an aircraft or for a handbill.   *Please post the flyer on the bulletin board. The Western Flyer.* Use the word flier in the phrase take a flier, meaning to take a big risk.
 
 
 **Fraternal organizations and service clubs**
 
-> Capitalize the proper names:  *Fraternal Order of Police, Rotary Club*
+> Capitalize the proper names:  *Fraternal Order of Police, Rotary Club*.
 
 > Capitalize the words that describe membership:  *He is a Rotarian.* 
 
 
-**full time, part time**
+**Full time, part time**
 
 >Hyphenate the adjective, not the noun.
 
@@ -269,10 +269,10 @@ The 12-month period that a coporation or government body uses for bookkeeping pu
 
 **Government**
 
-> Always lowercase, never abbreviate.  *the state government, the federal government, the U.S. government*
+> Always lowercase, never abbreviate:  *the state government, the federal government, the U.S. government*.
 
 
-**he, she / his, her**
+**He, she / his, her**
 
 >Do not presume maleness in constructing a sentence. Usually it is possible, and always preferable, to reword the sentence to avoid gender. 
 
@@ -292,11 +292,11 @@ The 12-month period that a coporation or government body uses for bookkeeping pu
 > The "front" page of a website.
 
 
-**legislative bodies**
+**Legislative bodies**
 
->In general, capitalize the proper name of a specific legistlative body abroad: _Parlinment_ 
+>In general, capitalize the proper name of a specific legislative body abroad: _Parliament_. 
 
->The principle applies also to individual houses of the nation's legislature: _Senate, Congress_
+>The principle applies also to individual houses of the nation's legislature: _Senate, Congress_.
 
 >Do not capitalize this adjective unless it begins a sentence.
 
@@ -314,7 +314,7 @@ The 12-month period that a coporation or government body uses for bookkeeping pu
 
 **Mount**
 
-> Spell out in all uses.  *Mount Sterling, Mount Vernon*
+> Spell out in all uses:  *Mount Sterling, Mount Vernon*.
 
 
 **Nonsexist writing**
@@ -344,7 +344,7 @@ The 12-month period that a coporation or government body uses for bookkeeping pu
 
 **Regions**
 
-> In general, lowercase north, south northeast, etc. when they indicate compass direction, capitalize these words when they designate regions.  
+> In general, lowercase north, south northeast, etc. when they indicate compass direction; capitalize these words when they designate regions.  
 
 >>• *Western Kentucky, Central Kentucky, the South and the North, the Far East*
 >>• *She has a southern accent.*
@@ -360,7 +360,7 @@ The 12-month period that a coporation or government body uses for bookkeeping pu
 > Lowercase in all state of constructions:  *the state of Tennessee, the states of Alabama and Georgia.* Apply the same principles to phrases such as: _the city of Lexington, the town of Hopkinsville._
 
 
-**state/federal**
+**State/federal**
 
 >Capitalize when referring to a governmental entity, but not when referring to geographical areas or system/theories of government. 
 
@@ -375,12 +375,12 @@ The 12-month period that a coporation or government body uses for bookkeeping pu
 
 **Subcommittee**
 
->Lowercase when used with the name of a legislative body's full committee: _a Ways and Means subcommittee_
+>Lowercase when used with the name of a legislative body's full committee: _a Ways and Means subcommittee_.
 
 
-**Through, Thru**
+**Through, thru**
 
-> Although the words "through" and 'thru" have the same meaning, the word "through" is used in formal writing and "thru" is used in informal writing. The preferred term is "through."
+> Although the words "through" and "thru" have the same meaning, the word "through" is used in formal writing and "thru" is used in informal writing. The preferred term is "through."
 
 >> **_Incorrect_:** *The office is open Monday thru Friday.*
 
@@ -389,7 +389,7 @@ The 12-month period that a coporation or government body uses for bookkeeping pu
 
 **Toward**
 
-> No s at the end.  *toward not towards*
+> No s at the end:  *toward not towards*.
 
 
 **United States**
@@ -401,20 +401,20 @@ The 12-month period that a coporation or government body uses for bookkeeping pu
 >>•	The official U.S. policy has not changed. 
 
 
-**web**
+**Web**
 >Short form of World Wide Web, it is not the same as the internet, but is a subset; other applications, such as email, exist on the internet.
 
 
->>• web address
+>>• Web address.
 
->>• web browser
+>>• Web browser.
 
 
-**website**
+**Website**
 
 > Also, webcam, webcast, webpage, webfeed, the web.
 
 
 **Workforce, workplace**
 
-> Both one word
+> Both one word.
