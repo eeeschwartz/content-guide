@@ -22,15 +22,15 @@ title: Times and Dates
   
 * Do not put a 12 in front of noon: 
 
-    > _noon_, **not** _12 noon_
+    > _Noon_, **not** _12 noon_.
 
 * Avoid the redundant:
 
-    > _11 p.m. tonight_
+    > _11 p.m. tonight_.
 
 * When the day follows the month, express it in cardinal figures: 
 
-    > on _May 11_
+    > On _May 11_.
 
 * When the day precedes the month or stands alone, express it in ordinal figures or ordinal numbers: 
 
