@@ -100,10 +100,10 @@ Summaries often show up in search results, so explain why someone should open th
 
 A summary should have important words in the front. Keep your summary shorter than 140 characters, as search engines cut off text unpredictably. 
 
-_Use (what the user needs to do):		
+Use (what the user needs to do):		
 Before you host a block party in Lexington, you must get a permit from the City.
 
-_Not (how we think about it):
+Not (how we think about it):
 The Division of Traffic Engineering is responsible for issuing a permit to any individual or group that wishes to host a block party. Block parties are covered under the City’s Code of Ordinances, sections 18-14 and 18-15. Please note that Traffic Engineering is the only office that may permit street or portions of them to be closed for a block party (block public right of way for a short time) use. 
 
 **Just enough information**
@@ -164,7 +164,7 @@ If you write at a fifth grade level, your writing is easier to translate. Rememb
 
 Do not use i.e., e.g. or etc. Because these are Latin terms are not plain English, they are not easily understood by everyone. They are also difficult to translate. Because of the periods, they take visual prominence in your sentence, when they are not important words. Screen readers also pronounce these terms unpredictably.
 
-_Write short sentences.
+_Write short sentences_.
 Ideally, sentences should be 10–15 words maximum.
 
 Respect your reader’s time and keep sentences short. Users understand 100% of sentences at nine words or less. Even at 14 words comprehensive says at 90%.
