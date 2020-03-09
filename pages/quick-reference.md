@@ -1,7 +1,7 @@
 ---
 permalink: quick-reference/
 layout: default
-title: Quick Reference
+title: Quick reference
 ---
 
 
