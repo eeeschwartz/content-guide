@@ -164,7 +164,7 @@ If you write at a fifth grade level, your writing is easier to translate. Rememb
 
 Do not use i.e., e.g. or etc. Because these are Latin terms are not plain English, they are not easily understood by everyone. They are also difficult to translate. Because of the periods, they take visual prominence in your sentence, when they are not important words. Screen readers also pronounce these terms unpredictably.
 
-_Write short sentences_.
+Write short sentences.
 Ideally, sentences should be 10–15 words maximum.
 
 Respect your reader’s time and keep sentences short. Users understand 100% of sentences at nine words or less. Even at 14 words comprehensive says at 90%.
@@ -175,7 +175,7 @@ Paragraphs should have three sentences or less. Write subheadings about every th
 
 Use bulleted lists instead of long sentence lists. Convert a sentence to a bulleted list if there are more than three items. 
 
-_Use strong verbs:
+Use strong verbs:
 Strong verbs tell readers what they need to do. Verbs make it easy to get involved or take action.
 
 > Use – _Pay your LexServ bill.
@@ -184,7 +184,7 @@ Strong verbs tell readers what they need to do. Verbs make it easy to get involv
 > Use – _Register a new business.
 > Not – _Business registration certificate.
 
-_Use active voice:
+_Use active voice:_
 Writing in the passive voice makes your content more difficult to understand.
 
 Using the passive voice also increases the reading level. It usually adds more words to the sentence.
