@@ -13,5 +13,5 @@ An acronym is a word formed from the first letter or letters or a series of word
 * Do not begin a sentence with an abbreviation.
 * Abbreviate company, corporation, incorporated and limited when used after the names of a corporate entity:  _Commerce Lexington Inc._
 * DO NOT use a comma before Inc., Ltd., LLC, LLP.  _Smith & Jones Ltd._
-* Generally, use capital letters and omit periods unless the result would spell an unrelated word:  _U.S. not US.
+* Generally, use capital letters and omit periods unless the result would spell an unrelated word:  U.S. not US.
 
