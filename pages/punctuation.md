@@ -13,10 +13,10 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 >> *	Contractions: *You're right. She's a great boss.*
 >> *	To show possession: *(Place the apostrophe before the s to show singular possession) Ms. Smith's office.*
 >> *	Where the noun that should follow is implied: *That was his father's, not his, jacket.*
->> *	To show plural possession, make the noun a plural first. Then immediately use the apostrophe. *the two boys' hats, the Joneses' house*
+>> *	To show plural possession, make the noun a plural first. Then immediately use the apostrophe: *the two boys' hats, the Joneses' house*.
 >> *	Do not use an apostrophe for the plural of a name. *We visited the Smiths in Louisville. The Billingsleys have two dogs and a cat.*
->> *	With a singular compound noun, show possession with the 's at the end of the word. *my mother-in-law's car*
->> *	If the compound noun is plural, form the plural first and then use the apostrophe. *my two brothers-in-law's hats*
+>> *	With a singular compound noun, show possession with the 's at the end of the word: *my mother-in-law's car*.
+>> *	If the compound noun is plural, form the plural first and then use the apostrophe: *my two brothers-in-law's hats*.
 >> *	Use the apostrophe and s after the second name only if two people possess the same item. *Michael and Cindy's home is constructed of brick. Stacey's and Jon's contracts will be renewed next year.*
 >> *	Never use an apostrophe with possessive pronouns: his, hers, its, theirs, ours, yours, whose.  They already show possession so they do not require an apostrophe.  *The book is hers, not yours.*  
 >> *	The only time an apostrophe is used for it's is when it is a contraction for "it is" or "it has." *It's your right to refuse the invitation. It's been great getting to know you.*
@@ -26,18 +26,18 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 > The ampersand (&) should not otherwise be used in place of _and_, except for some accepted abbreviations: _B&B, R&B_ Use the ampersand when it is part of a company's formal name or composition title:  
 
->> *Procter & Gamble*   
+>> *Procter & Gamble*.   
 
->> *Division of Facilities and Fleet Management*
+>> *Division of Facilities and Fleet Management*.
 >>
 >> **-NOT-**
 >>
->> *Division of Facilities & Fleet Management*
+>> *Division of Facilities & Fleet Management*.
 
 
 **Colon (:)**
 
-> Captilaize the first word after a colon only if it is a proper noun or the start of a complete sentence.  
+> Capitalize the first word after a colon only if it is a proper noun or the start of a complete sentence.  
 
 >> *Several people attended the meeting: Callie, Cory, Ryan, Janie and Landon.*
 >> *He promised this: The company will make good on all loses.*
@@ -92,10 +92,10 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 > Use ellipses to indicate the deletion of one or more words in condensing quotes, texts and documents, or to indicate hesitation. Be careful to avoid deletion that would distort the meaning.  
 
->> *In his “I Have a Dream” speech, the Reverend Martin Luther King Jr. declared: “Now is the time to make real the promises of democracy… Now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood.”*
+>> *In his “I Have a Dream” speech, the Reverend Martin Luther King Jr. declared: “Now is the time to make real the promises of democracy … Now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood.”*
 
 
-**Em Dash (—)**
+**Em dash (—)**
 
 > * Use dashes to denote an abrupt change in thought in a sentence or an emphatic pause: 
 
@@ -110,7 +110,7 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 >> *"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty." ─  Sir Winston Churchill*
 
 
-**En Dash (–)**
+**En dash (–)**
 
 > AP Style does not use en dashes. An en dash is half the width of an em dash.  Some other styles call for en dashes to indicate ranges of dates or times, or with some compound modifiers.
 
@@ -137,18 +137,18 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 > * Two or more words that express a single concept: Use hyphens to link all the words in the compound: 
 
->> *a full-time job, a better-qualified woman, a well-known aide*
+>> *A full-time job, a better-qualified woman, a well-known aide*.
 
 >>> Exception: Do not use a hyphen with the adverb very and all adverbs that end in ly:
 
->>> *a very good time, an easily remembered rule*
+>>> *A very good time, an easily remembered rule*.
 
 
 **Semicolon (;)**
 
-> In general, use the semicolon to indicate a greater separation of thought and information than a comma, can convey but less than the seperation that a period implies.
+> In general, use the semicolon to indicate a greater separation of thought and information than a comma, can convey but less than the separation that a period implies.
 
->> *	To clarify a series:  When individual segments contain material that also must be set off by commas:  He leaves a daughter, Sidney Brown of Lexington; three sons, Johnny Smith of Dallas, Tim Smith of Louisville, Ky., and Randy Smith of Nashville, Tenn.; and a sister, Dorothy McAdams, of Richmond, Ky.
+>> *	To clarify a series:  When individual segments contain material that also must be set off by commas:  He leaves a daughter, Sidney Brown of Lexington; three sons, Johnny Smith of Dallas, Tim Smith of Louisville, Kentucky, and Randy Smith of Nashville, Tennessee; and a sister, Dorothy McAdams, of Richmond, Kentucky.
 >> *	To link independent clauses: When a coordinating conjunction such as and, but or for is not present.
 
 >> **_Incorrect_:** *The package was due last week, it arrived today.*
@@ -162,9 +162,9 @@ There is no alternative to correct punctuation. Incorrect punctuation can change
 
 >For direct quotations: To surround the exact words of a speaker or writer when reported in a story. _The mayor said, “We are asking all divisions to but their budgets by 10%.”_
 
->Composition titles:  Put quotation marks around the names of all such works except the Bible, the Quran and other holy books, and books that are primarily catalogs of reference material. In addition to catalogs, this category includes almanacs, directories, dictionaries, encyclopedias, handbooks and similar publications.  “Star Wars,” “The Star-Spangled Banner,” the “Today” show, Webster’s New World Dictionary
+>Composition titles:  Put quotation marks around the names of all such works except the Bible, the Quran and other holy books, and books that are primarily catalogs of reference material. In addition to catalogs, this category includes almanacs, directories, dictionaries, encyclopedias, handbooks and similar publications.  “Star Wars,” “The Star-Spangled Banner,” the “Today” show, Webster’s New World Dictionary.
  
->Unfamiliar terms: A word or words being introduced to readers may be placed in quotation marks on first reference. _Broadcast frequencies are measured in “kilohertz.” _
+>Unfamiliar terms: A word or words being introduced to readers may be placed in quotation marks on first reference. _Broadcast frequencies are measured in “kilohertz.” 
 
 >Quotes within quotes: Alternate between double quotation marks (“or”) and single marks (‘or’): _She said, “I quote from his letter, ‘I agree with Kipling that “the female of the species is more deadly than the male,” but the phenomenon is not an unchangeable law of nature,’ a remark he did not explain.”_
 
