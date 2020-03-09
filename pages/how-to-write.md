@@ -135,7 +135,7 @@ People don’t read every word on a webpage. They skim over content. We need to 
 
 Anything you put on the web is a conversation.
 
-Write as you would talk to real people. Use ‘you’ for the person getting the service. The division behind the service is the ‘us’ or ‘we.’
+Write as you would talk to real people. Use "you" for the person getting the service. The division behind the service is the "us" or "we."
 
 Clarity is more important than following rules, so name the department if it’s confusing to use "we."
 
@@ -184,7 +184,7 @@ Strong verbs tell readers what they need to do. Verbs make it easy to get involv
 > Use – _Register a new business.
 > Not – _Business registration certificate.
 
-_Use active voice:_
+Use active voice:
 Writing in the passive voice makes your content more difficult to understand.
 
 Using the passive voice also increases the reading level. It usually adds more words to the sentence.
