@@ -30,12 +30,12 @@ When we talk about "users," we are talking about anyone who lives, works or visi
 
 _User_ needs are what we call the tasks a person comes to the website or service to do. 
 
->As a (user):
+>_As a (user):_
 >> I want to (do something).
 
 >> So that I can (expected action).
 
->We know it is done when:
+>_We know it is done when:_
 >> The user understands something.
 
 >> The user understands another thing.
@@ -100,10 +100,10 @@ Summaries often show up in search results, so explain why someone should open th
 
 A summary should have important words in the front. Keep your summary shorter than 140 characters, as search engines cut off text unpredictably. 
 
-Use (what the user needs to do):		
+Use _(what the user needs to do):_		
 Before you host a block party in Lexington, you must get a permit from the City.
 
-Not (how we think about it):
+Not _(how we think about it):_
 The Division of Traffic Engineering is responsible for issuing a permit to any individual or group that wishes to host a block party. Block parties are covered under the City’s Code of Ordinances, sections 18-14 and 18-15. Please note that Traffic Engineering is the only office that may permit street or portions of them to be closed for a block party (block public right of way for a short time) use. 
 
 **Just enough information**
@@ -164,7 +164,7 @@ If you write at a fifth grade level, your writing is easier to translate. Rememb
 
 Do not use i.e., e.g. or etc. Because these are Latin terms are not plain English, they are not easily understood by everyone. They are also difficult to translate. Because of the periods, they take visual prominence in your sentence, when they are not important words. Screen readers also pronounce these terms unpredictably.
 
-Write short sentences.
+_Write short sentences._
 Ideally, sentences should be 10–15 words maximum.
 
 Respect your reader’s time and keep sentences short. Users understand 100% of sentences at nine words or less. Even at 14 words comprehensive says at 90%.
@@ -175,16 +175,16 @@ Paragraphs should have three sentences or less. Write subheadings about every th
 
 Use bulleted lists instead of long sentence lists. Convert a sentence to a bulleted list if there are more than three items. 
 
-Use strong verbs:
+_Use strong verbs:_
 Strong verbs tell readers what they need to do. Verbs make it easy to get involved or take action.
 
-> Use – Pay your LexServ bill.
-> Not – LexServ payment process.
+> Use – _Pay your LexServ bill._
+> Not – _LexServ payment process._
 
-> Use – Register a new business.
-> Not – Business registration certificate.
+> Use – _Register a new business._
+> Not – _Business registration certificate._
 
-Use active voice:
+_Use active voice:_
 Writing in the passive voice makes your content more difficult to understand.
 
 Using the passive voice also increases the reading level. It usually adds more words to the sentence.
