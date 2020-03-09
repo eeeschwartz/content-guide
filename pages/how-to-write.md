@@ -26,7 +26,7 @@ Users of the City’s website will be residents looking to get something done wi
 
 **Users**
 
-When we talk about _"users"_, we are talking about anyone who lives, works or visits Lexington and needs to interact with the City. 
+When we talk about _"users," we are talking about anyone who lives, works or visits Lexington and needs to interact with the City. 
 
 _User_ needs are what we call the tasks a person comes to the website or service to do. 
 
