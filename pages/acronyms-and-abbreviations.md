@@ -1,7 +1,7 @@
 ---
 permalink: acronyms-and-abbreviations/
 layout: default
-title: Acronyms and Abbreviations
+title: Acronyms and abbreviations
 ---
 
 An acronym is a word formed from the first letter or letters or a series of words. (Federal Bureau of Investigation ─ FBI.) An abbreviation is not an acronym.
