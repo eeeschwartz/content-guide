@@ -27,7 +27,7 @@ La. (LA)   | N.C. (NC)  | Wyo. (WY)
 * Spell the state name out completely when it is used in the body of a story, whether standing alone or in conjunction with a city or town.
 
 > *We are going to Colorado for vacation this year.*
-> *I was born in Georgia.*
+> *I was born in Atlanta, Georgia.*
 
 * No accompanying state name is required when referring to the following cities:
 
