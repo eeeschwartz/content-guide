@@ -30,7 +30,7 @@ When we talk about _"users,"_ we are talking about anyone who lives, works or vi
 
 _User_ needs are what we call the tasks a person comes to the website or service to do. 
 
->_As a _(user):_
+>_As a (user):_
 >> I want to (do something).
 
 >> So that I can (expected action).
