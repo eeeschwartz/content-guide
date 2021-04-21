@@ -164,7 +164,9 @@ title: Commonly used terms and phrases
 > Avoid broad generalizations and labels; race and ethnicity are one part of a person’s identity. Consider carefully whether to identify people by race. Often, it is an irrelevant factor and drawing unnecessary attention to someone’s race or ethnicity can be interpreted as bigotry. There are, however, occasions when race is pertinent:
 
 >> •	In stories that involve significant, groundbreaking or historical events such as being elected U.S. president, being named to the U.S. Supreme Court or other notable occurrences. _Barack Obama was the first black U.S. president._ 
+
 >> •	In cases where suspects or missing persons are being sought, and the descriptions provided are detailed and not solely racial. _Police are looking for man described as white, about 6 feet tall and 200 pounds, with black hair and blue eyes, wearing a plaid shirt and a Cincinnati Reds baseball cap._
+
 >> •	When reporting a demonstration, disturbance or other conflict involving race or issues like civil rights. 
 
 
