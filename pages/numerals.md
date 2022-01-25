@@ -26,10 +26,9 @@ title: Numerals
 
 * Percent, percentage, percentage points
 
-Use the % sign when paired with a numeral, with no space, in most cases: _Average hourly rate rose 3.1% from a year ago. She won 56.2% of the vote._ Use figures: _4 percentage points_.
+> Use the % sign when paired with a numeral, with no space, in most cases: _Average hourly pay rose from 3.1% from a year ago her mortgage rate is 4.75%; about 60% of Americans agree; he won 56.2% of the vote._ Use figures: _1%, 4 percentage points._
 
-> _The mayor said the budget would be increased by 7 percent._
-> _Seven percent of the budget had to be cut._
+> In casual uses, use words rather than figures and numbers: _She said he had a zero percent chance of winning._
 
 * Phone Number: Use parentheses around the area code and put a space between the area code and the rest of the phone number.
 
