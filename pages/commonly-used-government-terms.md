@@ -102,6 +102,15 @@ title: Commonly used terms and phrases
 > Use lowercase in plural and generic uses:  *Lexington, Louisville and Cincinnati city councils.*
 
 
+**City hall**
+
+> Capitalize with the name of a city, or without the name of a city if the reference is specific: _Lexington City Hall, City Hall._
+
+> Lowercase plural uses: _the Lexington and Louisville city halls._
+
+> Lowercase generic uses, including: _You can’t fight city hall._
+
+
 **Commonwealth**
 
 > Kentucky is one of four U.S. states that are legally a commonwealth. The others are Massachusetts, Pennsylvania and Virginia. The state's actual name is the "Commonwealth of Kentucky." When the phrase "the Commonwealth" is used meaning Kentucky, commonwealth should be capitalized. Lowercase in all other uses.
