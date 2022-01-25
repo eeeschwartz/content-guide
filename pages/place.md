@@ -3,9 +3,17 @@ permalink: place/
 layout: default
 title: Place
 ---
-* When addressing letters and envelopes, abbreviate state names per the U.S. Postal Service's format.
-* When writing for publication, use the following AP Style abbreviations for states, instead of the U.S. Postal Services' style:  *(Postal code abbreviations are in parentheses.)*
+* The names of the 50 states should be spelled out when used in the body of a story, whether standing alone or in conjunction with a city, town, village or military base. 
 
+* Lowercase in all state of constructions: the state of Maine, the states of Main and Vermont.
+
+* Four states – Kentucky, Massachusetts, Pennsylvania and Virginia – are legally commonwealths instead of states. The distinction is necessary only in formal uses: The commonwealth of Kentucky filed a lawsuit. For simple geographic reference: Tobacco is grown in the state of Kentucky. 
+
+*	Do not capitalize state when used simply as an adjective to specify a level of jurisdiction: state Rep. William Smith, the state Transportation Department, state funds. Apply the same principle to phrases such as the city of Lexington, the town of Auburn, etc. 
+
+*	Use the state abbreviations listed below with the name of a city, town, village or military base in most datelines and in lists, agate and tabular material.
+
+* When addressing letters, envelopes, abbreviate state per the U.S. Postal Service’s format. Postal code abbreviations are in parentheses.
 
 ---------- | ---------- | ----------
 Ala. (AL)  | Md. (MD)   | N.D. (ND)
@@ -24,10 +32,6 @@ Ky. (KY)   | N.Y. (NY)  | Wis. (WI)
 La. (LA)   | N.C. (NC)  | Wyo. (WY)
 
 * Never abbreviate Alaska, Hawaii, Idaho, Iowa, Maine, Ohio, Texas and Utah.
-* Spell the state name out completely when it is used in the body of a story, whether standing alone or in conjunction with a city or town.
-
-> *We are going to Colorado for vacation this year.*
-> *I was born in Atlanta, Georgia.*
 
 * No accompanying state name is required when referring to the following cities:
 
