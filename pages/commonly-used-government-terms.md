@@ -322,21 +322,6 @@ The 12-month period that a corporation or government body uses for bookkeeping p
 > Always lowercase, never abbreviate:  *the state government, the federal government, the U.S. government*.
 
 
-**He, she / his, her**
-
->Do not presume maleness in constructing a sentence. Usually it is possible, and always preferable, to reword the sentence to avoid gender. 
-
-
->>•	Incorrect:  An employee should have the approval of his/her supervisor.
-
->>•	Correct: An employee should have the approval of their supervisor.
-
-
->>•	Incorrect: His staff assistant.
-
->>•	Correct: The division’s staff assistant.
-
-
 **homepage**
 
 > The "front" page of a website.
