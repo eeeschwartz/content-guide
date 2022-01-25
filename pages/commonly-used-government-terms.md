@@ -174,28 +174,44 @@ title: Commonly used terms and phrases
 
 >> •	In stories that involve significant, groundbreaking or historical events such as being elected U.S. president, being named to the U.S. Supreme Court or other notable occurrences. _Barack Obama was the first black U.S. president._ 
 
->> •	In cases where suspects or missing persons are being sought, and the descriptions provided are detailed and not solely racial. _Police are looking for man described as white, about 6 feet tall and 200 pounds, with black hair and blue eyes, wearing a plaid shirt and a Cincinnati Reds baseball cap._
+>> •	In cases where suspects or missing persons are being sought, and the descriptions provided are detailed and not solely racial. _Police are looking for man described as white, about 6 feet tall and 200 pounds, with black hair and blue eyes, wearing a plaid shirt and a Cincinnati Reds baseball cap!_
 
 >> •	When reporting a demonstration, disturbance or other conflict involving race or issues like civil rights. 
 
 
 >**_African American_**
 
->>No hyphen. Acceptable for an American black person of African descent. The terms are not necessarily interchangeable. Americans of Caribbean heritage, for example, generally refer to themselves as Caribbean American. Follow a person's preference.  
+>> No hyphen. Acceptable for an American black person of African descent. The terms are not necessarily interchangeable. Americans of Caribbean heritage, for example, generally refer to themselves as _Caribbean American_. Follow a person’s preference.
+
 
 >**_Asian American_**
 
 >>No hyphen. Acceptable for an American of Asian descent. When possible, refer to a person's country of origin or follow the person's preference.
 
+
 >**_Black_**
 
 >>Acceptable as an adjective. Not strictly synonymous with African Americans. If specific ethnicity is known, use that. 
 
->>>•	African-American.
 
->>>•	Caribbean.
+>**_Caucasian_**
 
->>>•	African.
+>>Avoid as a synonym for white, unless in a quotation.
+
+
+>**_People of color, racial minority_**
+
+>>The terms people of color and racial minority/minorities are generally acceptable terms to describe people of races other than white in the United States. Avoid using POC. When talking about just one group, be specific: Chinese Americans or members of the Seminole Indian Tribe of Florida. Avoid referring to an individual as a minority unless in a quotation. 
+
+
+>**_biracial, multiracial_**
+
+>>Acceptable, when clearly relevant, to describe people with more than one racial heritage. Usually more useful when describing large, diverse groups of people than individuals. Avoid mixed-race, which can carry negative connotations, unless a story subject prefers that term. Example: She has an African American father and a white mother instead of She is biracial. 
+
+>**_Latino/Latina_**
+
+>>Latino is often the preferred noun or adjective for a person from, or whose ancestors were from, a Spanish-speaking land or culture or from Latin America. Latina is the feminine form. Some prefer the gender neutral term Latinx, which should be confined to quotations, names of organizations or individuals who request it. Hernandez prefers the gender-neutral term Latinx. For groups of females, use the plural Latina; for groups of males or of mixed gender, use the plural Latinos. Hispanics is also generally acceptable for those in the U.S. Use a more specific identification when possible, such as Cuban, Puerto Rican, Brazilian or Mexican American. 
+
 
 >**_Hispanic_**
 
@@ -260,23 +276,46 @@ The 12-month period that a corporation or government body uses for bookkeeping p
 >>•	Part-time employees work part time. 
 
 
-**Gender**
+**Gender-neutral language**
 
->Not synonymous with _sex_. _Gender_ refers to a person’s social identity while _sex_ refers to biological characteristics. Not all people fall under one or two categories for _sex_ or _gender_, according to leading medical organizations, so avoid references to both, either or opposite sexes or genders as a way to encompass all people. 
+>In general, use terms for jobs and roles that can apply to any gender. Such language aims to treat people equally and is inclusive of people whose gender identity is not strictly male or female. 
 
-**Sexuality**
+>Consider any word or term that has the effect of emphasizing one gender over another. For example _police officer instead of policeman. Door attendant instead of doorman. Councilmember instead of councilman._ 
 
->Use gay or lesbian when describing people who are attracted to members of the same sex, although _lesbian_ is the more common term for women.
+>_Gender_ is not synonymous with _sex_. _Gender_ refers to a person’s social identity while _sex_ refers to biological characteristics. Not all people fall under one or two categories for _sex_ or _gender_, according to leading medical organizations, so avoid references to both, either or opposite sexes or genders as a way to encompass all people.
 
-**Transgender**
 
->An adjective that describes people whose gender identity does not match the sex they were identified as having at birth.
+>**_He, she / his, her_**
 
->People who identify as gender nonconforming have a gender identity or expression that does not conform to the traditional gender binary. 
+>Do not presume maleness in constructing a sentence. Usually it is possible, and always preferable, to reword the sentence to avoid gender.
 
-**LGBT, LGBTQ**
+>>Incorrect: _An employee should have the approval of his/her supervisor._
+>>Correct: _An employee should have the approval of their supervisor._
+>>Incorrect: _His staff assistant._
+>>Correct: _The division’s staff assistant._
 
->Acceptable in all references for lesbian, gay, bisexual and transgender, or lesbian, gay, bisexual, transgender and questioning and/or queer.
+
+>**_LGBT, LGBTQ_**
+
+>>Acceptable in all references for lesbian, gay, bisexual and transgender, or lesbian, gay, bisexual, transgender and questioning and/or queer.
+
+
+>**_Pride, pride_**
+
+>> Capitalize Pride when referring to events or organizations honoring LGBTQ communities on subsequent references. _“Are you going to Pride?” she asked. Several cities are holding Pride events this weekend._
+
+
+>**_Sexuality_**
+
+>>Used to describe people attracted to members of the same sex, although _lesbian_ is the more common term for women. Preferred over _homosexual_. Include sexual orientation only when it is pertinent to a story, and avoid references to _sexual preference_ or to a _gay_ or _alternative lifestyle_.
+
+
+>**_Transgender_**
+
+>>An adjective that describes people whose gender identity does not match the sex they were identified as having at birth.
+
+>>People who identify as gender nonconforming have a gender identity or expression that does not conform to the traditional gender binary. 
+
 
 **Government**
 
