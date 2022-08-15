@@ -42,6 +42,9 @@ navigation:
 - text: Easily Confused Words
   url: easily-confused-words/
   internal: true
+- text: Inclusive Language
+  url: inclusive-language/
+  internal: true
 - text: Links
   url: links/
   internal: true
