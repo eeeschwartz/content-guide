@@ -129,7 +129,7 @@ How to talk about age, disabilites, genders, race, sexuatility, etc.
 
 >**_Latino/Latina_**
 
->>Latino is often preferred noun or adjective for a person from, or whose ancestors were from, a Spanish-speaking land or culture or from Latin America. Latina is the feminie form. So prefer the gender neutral tern Latinx, which should be confined to quitations, nanes of organixations or individuals who request it. Hernandez preders the gender-neutral term Lantinx. For groups of females, use the plural Latinas; for groups of males or of mixed gender, use the plural Latinos. Hispanixs is alos generally accptable for those int he U.S. Use more specific identification when possible, such as Cuban, Puerto Rican, Brazilian or Mexican American.
+>>Latino is often preferred noun or adjective for a person from, or whose ancestors were from, a Spanish-speaking land or culture or from Latin America. Latina is the female form. So prefer the gender neutral term Latinx, which should be confined to quotations, names of organizations or individuals who request it. Hernandez prefers the gender-neutral term Lantinx. For groups of females, use the plural Latinas; for groups of males or of mixed gender, use the plural Latinos. Hispanic is also generally accptable for those in the U.S. Use more specific identification when possible, such as Cuban, Puerto Rican, Brazilian or Mexican American.
 
 >**_Hispanic_**
 
