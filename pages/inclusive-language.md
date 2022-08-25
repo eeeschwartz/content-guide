@@ -3,7 +3,7 @@ permalink: inclusive-language/
 layout: default
 title: Inclusive language
 ---
-How to talk about age, disabilites, genders, race, sexuatility, etc. 
+How to talk about age, disabilities, genders, race, sexuality, etc. 
 
 **Age**
 
