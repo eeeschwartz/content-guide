@@ -138,7 +138,7 @@ If a disability is pertinent to the story, provide brief details explaining that
 
 >>The term is acceptable when necessary in broad references to multiple races other than white. _We will hire more people of color. Nine playwrights of color collaborated on the script._ Be aware, however, that many people of various races object to the term for various reasons, including that it lumps together into one monolithic group anyone who isn’t white. 
 
->>Be specific whenever possible by referring to, for instance, _Black Americans, Chinese Americans or members of the Seminole Tribe of Florida._ Example: _The poll found that Black and Latino Americans are bearing the brunt of the pandemic’s financial impact_, not_ The poll found that people of color are bearing the brunt of the pandemic’s financial impact_.
+>>Be specific whenever possible by referring to, for instance, _Black Americans, Chinese Americans or members of the Seminole Tribe of Florida._ Example: _The poll found that Black and Latino Americans are bearing the brunt of the pandemic’s financial impact_, not _The poll found that people of color are bearing the brunt of the pandemic’s financial impact_.
 
 >>Do not use _person of color_ for an individual. Do not use _POC, BIPOC or BAME_ unless necessary in a direct quotation; when used, explain it. 
 
